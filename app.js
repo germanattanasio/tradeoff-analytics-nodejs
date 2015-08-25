@@ -47,10 +47,15 @@ app.get('/', function(req, res) {
 
 app.post('/', function(req, res) {
   tradeoffAnalytics.dilemmas(req.body, function(err, dilemmas) {
-    if (err)
-      return res.status(err.code || 500).json(err.error || 'Error processin the request');
-    else
+    if (err){
+      var statusCode = Number(err.code);
+      return res
+        .status(statusCode || 502)
+        .json(err.error || err.message || 'Error processing the request');
+    }
+    else{
       return res.json(dilemmas);
+    }
   });
 });
 
