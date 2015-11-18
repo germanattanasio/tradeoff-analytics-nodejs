@@ -7,7 +7,7 @@
     "errorhandler": "~1.4.2",
     "express": "~4.13.3",
     "jade": "~1.11.0",
-    "request": "~2.65.0",
+    "request": "~2.66.0",
     "watson-developer-cloud": "~0.10.4"
   },
   "engines": {
