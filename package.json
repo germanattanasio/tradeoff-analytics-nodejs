@@ -8,7 +8,7 @@
     "express": "~4.13.4",
     "jade": "~1.11.0",
     "request": "~2.67.0",
-    "watson-developer-cloud": "~1.2.1"
+    "watson-developer-cloud": "~1.2.2"
   },
   "engines": {
     "node": ">=0.10.38"
