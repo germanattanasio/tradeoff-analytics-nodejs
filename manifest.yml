@@ -6,7 +6,7 @@ declared-services:
 applications:
 - services:
   - tradeoff-analytics-service-standard
-  name: tradeoff-analytics-demo
+  name: Hackathon-700DO
   command: npm start
   path: .
   memory: 256M
