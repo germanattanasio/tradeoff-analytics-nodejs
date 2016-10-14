@@ -1,0 +1,22 @@
+[
+  '{{repeat(100, 500)}}',
+  {
+    key: '{{objectId()}}',
+    name:'{{firstName()}} {{surname()}}',
+    app_data: {
+      email: '{{email()}}',
+      phone: '+56 {{phone()}}'
+    },
+    values: {
+      isActive: '{{integer(0, 1)}}',
+      power_seller_status: function (tags) {
+        var categories = ['None', 'Normal', 'Gold','Platinum', 'Sayayin'];
+        return categories[tags.integer(0, categories.length - 1)];
+      },
+      age: '{{integer(0, 10)}}',
+      rating: '{{floating(0, 1, 2, "0.00")}}',
+      points: '{{integer(0, 100000)}}',
+      completedTransactions: '{{integer(0, 100000)}}'
+    }
+  }
+]
