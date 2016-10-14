@@ -56,7 +56,6 @@ app.get('/last_refresh', function(req, res) {
 var FILE_RAW = 'config/ml/users_raw.json';
 var FILE_PROBLEM = './public/data/auto.json';
 var FILE_TEMPLATE= './config/ml/problem.template.json';
-var edmunds = require('./config/edmunds/Edmunds');
 var fs = require('fs');
 
 var SECOND = 1000,
