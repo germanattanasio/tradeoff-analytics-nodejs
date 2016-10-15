@@ -3,7 +3,8 @@
 
 <head>
   <link rel="stylesheet" href="css/style.css">
-  <title>Tradeoff Analytics</title>
+  <link rel="stylesheet" href="css/style_new.css">
+  <title>Analizdor ML BCI</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -13,73 +14,19 @@
 
 <body>
   <!-- top level heading -->
-  <header class="_demo--heading">
-    <div class="_demo--container">
-      <a class="wordmark" href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/" target="_blank">
-        <span class="wordmark--left">IBM</span>
-        <span class="wordmark--right">Watson Developer Cloud</span>
-      </a>
-      <nav class="heading-nav" role="menubar">
-        <li class="base--li heading-nav--li" role="presentation">
-          <a class="heading-nav--item" href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/services-catalog.html" role="menuitem" target="_blank">
-                    	Services
-					</a>
-        </li>
-        <li class="base--li heading-nav--li" role="presentation">
-          <a class="heading-nav--item" href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/" role="menuitem" target="_blank">
-						Docs
-					</a>
-        </li>
-        <li class="base--li heading-nav--li" role="presentation">
-          <a class="heading-nav--item" href="#http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/starter-kits.html" role="menuitem" target="_blank">
-						Starter Kits
-					</a>
-        </li>
-        <li class="base--li heading-nav--li" role="presentation">
-          <a class="heading-nav--item" href="https://developer.ibm.com/watson/" role="menuitem" target="_blank">
-                        Community
-                    </a>
-        </li>
-      </nav>
-    </div>
-  </header>
-  <div class="_demo--banner banner">
+ <div class="_demo--banner banner">
     <div class="_demo--container">
       <div class="banner--service-container">
         <div class="banner--service-icon-container">
-          <img class="banner--service-icon" src="images/tradeoff-icon.png" alt="tradeoff analytics service icon">
+          <img class="banner--service-icon" src="images/bci_logo.png" alt="tradeoff analytics service icon">
         </div>
         <div class="banner--service-info">
-          <h1 class="banner--service-title base--h1">
-                      <img class="banner--service-icon_INLINE" src="images/tradeoff-icon.png" alt="Some Service API Icon">
-                           Tradeoff Analytics
-                  </h1>
-          <div class="banner--service-description">
+          <h1 class="banner--service-title base--h1 megatitle">
+            <img class="banner--service-icon_INLINE" src="images/tradeoff-icon.png" alt="Some Service API Icon">
+            Analizador de Vendedores de MercadoLibre
+          </h1>
+          <div class="banner--service-description megadescription">
             Tradeoff Analytics applies decision analytics technology, enabling users to avoid choice overload when making complex decisions involving multiple, conflicting goals.
-          </div>
-        </div>
-      </div>
-      <div class="banner--service-resource-container">
-        <div class="banner--row">
-          <div class="banner--service-resource">
-            <span class="icon icon-link"></span>
-            <strong>Resources:</strong>
-          </div>
-        </div>
-        <div class="banner--row">
-          <div class="banner--service-links">
-            <li class="base--li banner--service-link-item">
-              <a href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/tradeoff-analytics/" target="_blank" class="base--a">Documentation</a>
-            </li>
-            <li class="base--li banner--service-link-item">
-              <a href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/tradeoff-analytics/api/v1/" target="_blank" class="base--a">API Reference</a>
-            </li>
-            <li class="base--li banner--service-link-item">
-              <a href="https://github.com/watson-developer-cloud/tradeoff-analytics-nodejs" target="_blank" class="base--a">Fork on Github</a>
-            </li>
-            <li class="base--li banner--service-link-item">
-              <a href="https://hub.jazz.net/deploy/index.html?repository=https://github.com/watson-developer-cloud/tradeoff-analytics-nodejs.git" target="_blank" class="base--a">Deploy on Bluemix</a>
-            </li>
           </div>
         </div>
       </div>
@@ -89,33 +36,21 @@
   <!-- demo body -->
   <div class="_demo--input">
     <div class="_demo--content-container">
-      <h2 class="base--h2">Try the service</h2>
+      <h2 class="base--h2">Utiliza la herramienta</h2>
       <p class="base--p">When you shop for a car, how many criteria do you consider? What's the process like? How do you know when you've found the right one?</p>
 
-      <h3 id="demo-input" class="base--h3">Input</h3>
+      <h3 id="demo-input" class="base--h3">Selecciona las entradas</h3>
       <div class="panel">
         <div class="panel--description base--p">
-        Select the criteria that matter to you when buying a car:
+        Escoje los criterios de filtrado de vendedores
         </div>
         <div class="panel--option-container">
 
         </div>
         <button class="base--button panel--button">
-          Help me decide
+          Procesar
         </button>
       </div>
-
-      <span class="input--show-code-btn show-code">
-        <span class="icon icon-code"></span>
-        <span class="show-code--text">Show Code</span>
-      </span>
-
-      <div class="input--API input--json-container">
-			    <pre class="base--pre input--json language-javascript">
-					<code class="base--code language-javascript">
-					</code>
-				</pre>
-			</div>
 
       <div class="_demo--loading">
   		  <img src="images/loading-indicator.gif" width="100px" alt="">
@@ -157,20 +92,9 @@
         </div>
       </div>
 
-      <span class="output--show-code-btn show-code">
-        <span class="icon icon-code"></span>
-        <span class="show-code--text">Show Code</span>
-      </span>
-      <div class="output--API output--json-container">
-        <pre class="base--pre output--json language-javascript">
-          <code class="base--code language-javascript">
-          </code>
-        </pre>
-      </div>
-
       <div id="demo-comparison" class="_demo--comparison">
         <h5 class="base--h5">
-          Compare two options
+          Compara 2 opciones
         </h5>
         <div class="comparison--container">
           <div class="comparison--table">
@@ -182,34 +106,8 @@
         Congratulations! Excellent choice.
       </div>
 
-      <div class="candidates--edmunds-container">
-        <a class="candidates--edmunds" href="http://www.edmunds.com/?id=apis" target="_blank">
-          <img class="candidates--edmunds-img" src="images/edmund-mark.png">
-        </a>
-      </div>
     </div>
 
-    <div class="output--client-lib">
-      <div class="client-lib--container">
-        <h5 class="client-lib--title base--h5">
-          Client Library for Tradeoff Analytics
-        </h5>
-        <p class="client-lib--des base--p">
-          Take your decision-making to the next level with the Tradeoff Analytics user interface! Using a guided decision process, novel interactive visualizations, and comparison tools, you can fully understand the trade-offs between different options, ensuring you make an informed decision.
-        </p>
-        <p class="client-lib--des base--p">
-          The Tradeoff Analytics UI is available as a <a class="base--a" href="https://ta-cdn.mybluemix.net/2.0/TradeoffAnalytics.js">Javascript library</a> and may be embedded seamlessly in any web application, in any domain. <a class="base--a" href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/tradeoff-analytics/visualization.shtml">View documentation</a>.
-        </p>
-        <p class="client-lib--des base--p">
-          You can also bring your own data using the Tradeoff Analytics <a class="base--a" href="http://tradeoff-analytics-csvtojson.mybluemix.net/"> CSV to JSON converter</a>.
-        </p>
-        <div class="client-lib--btn-container">
-          <a class="client-lib--btn base--button" href="http://tradeoff-analytics-v2-demo.mybluemix.net/" target="_blank">
-            See the demo
-          </a>
-        </div>
-      </div>
-    </div>
 
   </div>
 </div>
