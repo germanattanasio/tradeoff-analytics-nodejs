@@ -10,6 +10,7 @@ env:
   - CF_ORGANIZATION=jotase
   - CF_SPACE=dev
 before_deploy: npm install -g cf-blue-green
+install: npm install mercadolibre
 deploy:
   provider: script
   script:
