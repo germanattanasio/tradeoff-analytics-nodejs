@@ -2,17 +2,49 @@
   "subject": "MercadoLibre",
   "columns": [
     {
-      "key": "isActive",
-      "full_name": "Usuario Activo",
+      "key": "power_seller_status",
+      "type": "categorical",
+      "goal": "max",
+      "is_objective": true,
+      "full_name": "Estatus de Vendedor",
+      "range": [
+        "None",
+        "Normal",
+        "Gold",
+        "Platinum",
+        "Sayayin"
+      ],
+      "preference": [
+        "Platinum",
+        "Sayayin"
+      ],
+      "description": "Power Seller Status"
+    },
+    {
+      "key": "age",
+      "full_name": "Antiguedad",
       "type": "numeric",
       "is_objective": true,
-      "goal": "min",
+      "goal": "max",
       "format": "number:0",
+      "range": {
+        "low": 0,
+        "high": 10
+      },
+      "description": "User's seniority"
+    },
+    {
+      "key": "rating",
+      "full_name": "Rating",
+      "type": "numeric",
+      "is_objective": true,
+      "goal": "max",
+      "format": "number:1.0",
       "range": {
         "low": 0,
         "high": 1
       },
-      "description": "Is the user currently active"
+      "description": "Average user's rating from MercadoLibre"
     }
   ]
 }

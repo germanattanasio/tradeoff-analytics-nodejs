@@ -110,18 +110,18 @@ function checkForRefresh(){
 function getUserData(){
   return [{
       "key": 454,
-      "name": "Robbins Schneider",
+      "name": "Javier Segovia",
       "app_data": {
-        "email": "robbinsschneider@zenthall.com",
-        "phone": "+56 (976) 429-2297"
+        "email": "jota.segovia@gmail.com",
+        "phone": "+56 951336106"
       },
       "values": {
         "isActive": 1,
         "power_seller_status": "Gold",
-        "age": 7,
-        "rating": 0.94,
-        "points": 42324,
-        "completedTransactions": 83750
+        "age": 0,
+        "rating": 0.5,
+        "points": 100,
+        "completedTransactions": 100
       }
   }]
 }
