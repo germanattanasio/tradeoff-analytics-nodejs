@@ -1,12 +1,12 @@
 {
-  "subject": "ML micro credit",
+  "subject": "MercadoLibre",
   "columns": [
     {
       "key": "power_seller_status",
       "type": "categorical",
       "goal": "max",
-      "is_objective": true,
-      "full_name": "Power Seller Status",
+      "is_objective": false,
+      "full_name": "Estatus de Vendedor",
       "range": [
         "None",
         "Normal",
@@ -22,9 +22,9 @@
     },
     {
       "key": "age",
-      "full_name": "Age",
+      "full_name": "Antiguedad",
       "type": "numeric",
-      "is_objective": true,
+      "is_objective": false,
       "goal": "max",
       "format": "number:0",
       "range": {
@@ -35,9 +35,9 @@
     },
     {
       "key": "rating",
-      "full_name": "Average Rating",
+      "full_name": "Rating",
       "type": "numeric",
-      "is_objective": true,
+      "is_objective": false,
       "goal": "max",
       "format": "number:1.0",
       "range": {
@@ -48,16 +48,16 @@
     },
     {
       "key": "points",
-      "full_name": "User's Points",
+      "full_name": "Puntaje",
       "type": "numeric",
-      "is_objective": true,
+      "is_objective": false,
       "goal": "max",
       "format": "number:0",
       "description": "Number positive points minus negative points"
     },
     {
       "key": "completedTransactions",
-      "full_name": "Completed Transactions",
+      "full_name": "Transacciones completadas",
       "type": "numeric",
       "is_objective": false,
       "goal": "max",
@@ -66,9 +66,9 @@
     },
     {
       "key": "isActive",
-      "full_name": "Active",
+      "full_name": "Usuario Activo",
       "type": "numeric",
-      "is_objective": true,
+      "is_objective": false,
       "goal": "max",
       "format": "number:0",
       "range": {
