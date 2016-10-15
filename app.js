@@ -27,6 +27,10 @@ require('./config/express')(app);
 //integration with tradeoff analytics service
 var tradeoffAnalyticsConfig = require('./config/tradeoff-analytics-config');
 
+//MercadoLibre Integration
+var meli = require('mercadolibre');
+var meliObject = new meli.Meli(process.env.ML_APP_ID, process.env.ML_SECRET_KEY);
+
 tradeoffAnalyticsConfig.setupToken(app, {//for dev purposes. in bluemix it is taken from VCAP.
   url: process.env.TA_URL || 'https://gateway.watsonplatform.net/tradeoff-analytics/api/v1',
   username: process.env.TA_USERNAME || 'USERNAME',
@@ -35,7 +39,13 @@ tradeoffAnalyticsConfig.setupToken(app, {//for dev purposes. in bluemix it is ta
 });
 
 app.get('/', function(req, res) {
-  res.render('index', {
+  res.render('bank', {
+    ct: req._csrfToken,
+    GOOGLE_ANALYTICS_ID: process.env.GOOGLE_ANALYTICS_ID
+  });
+});
+app.get('/user', function(req, res) {
+  res.render('seller', {
     ct: req._csrfToken,
     GOOGLE_ANALYTICS_ID: process.env.GOOGLE_ANALYTICS_ID
   });
@@ -53,12 +63,30 @@ app.get('/last_refresh', function(req, res) {
   });
 });
 app.post('/valid', function(req, res) {
-  createDataRequest(req.body, FILE_TEMPLATE);
+  var data = getUserData();
+  var problem = createDataRequest(data, FILE_TEMPLATE_PROFILE);
+  res.json(problem);
+});
+app.get('/auth/mercadolibre', function (req,res) {
+  var response = meliObject.getAuthURL('/user/data');
+  res.json(response);
+});
+app.get('/check', function (req,res) {
+  res.render('check', {
+    ct: req._csrfToken,
+    GOOGLE_ANALYTICS_ID: process.env.GOOGLE_ANALYTICS_ID
+  });
+});
+app.post('/saveProfile', function (req,res) {
+  var problem = JSON.parse(req.body.body);
+  createProblem(problem);
+  res.json(problem);
 });
 
 var FILE_RAW = 'config/ml/users_raw.json';
 var FILE_PROBLEM = './public/data/auto.json';
 var FILE_TEMPLATE= './config/ml/problem.template.json';
+var FILE_TEMPLATE_PROFILE= './config/ml/problem_profile.template.json';
 var fs = require('fs');
 
 var SECOND = 1000,
@@ -78,6 +106,25 @@ function checkForRefresh(){
   });
 }
 
+function getUserData(){
+  [{
+      "key": 454,
+      "name": "Robbins Schneider",
+      "app_data": {
+        "email": "robbinsschneider@zenthall.com",
+        "phone": "+56 (976) 429-2297"
+      },
+      "values": {
+        "isActive": 1,
+        "power_seller_status": "Gold",
+        "age": 7,
+        "rating": 0.94,
+        "points": 42324,
+        "completedTransactions": 83750
+      }
+  }];
+}
+
 function refreshData(){
   if(refreshing){
     return;
@@ -91,6 +138,9 @@ function refreshData(){
 
 function createData(problem){
   fs.writeFile(FILE_PROBLEM, JSON.stringify(problem,  null, 2));
+}
+function createProblem(problem){
+  fs.writeFile(FILE_TEMPLATE_PROFILE, JSON.stringify(problem,  null, 2));
 }
 
 function createDataRequest(data, template){
