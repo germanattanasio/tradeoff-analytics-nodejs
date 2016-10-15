@@ -34,15 +34,6 @@
       "description": "User's seniority"
     },
     {
-      "key": "points",
-      "full_name": "Puntaje",
-      "type": "numeric",
-      "is_objective": true,
-      "goal": "max",
-      "format": "number:0",
-      "description": "Number positive points minus negative points"
-    },
-    {
       "key": "completedTransactions",
       "full_name": "Transacciones completadas",
       "type": "numeric",

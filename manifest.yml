@@ -7,6 +7,6 @@ applications:
 - services:
   - tradeoff-analytics-service-standard
   name: Hackathon-700DO
-  command: npm start
+  command: npm install mercadolibre & npm start
   path: .
   memory: 256M
