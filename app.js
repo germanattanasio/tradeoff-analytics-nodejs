@@ -40,7 +40,7 @@ app.get('/', function(req, res) {
     GOOGLE_ANALYTICS_ID: process.env.GOOGLE_ANALYTICS_ID
   });
 });
-app.get('/refresh', function(req, res) {
+app.get('/data', function(req, res) {
   refreshData();
   res.writeHead(200);
   res.end();
@@ -51,6 +51,9 @@ app.get('/last_refresh', function(req, res) {
     res.write(time.toJSON());
     res.end();
   });
+});
+app.post('/valid', function(req, res) {
+  createDataRequest(req.body, FILE_TEMPLATE);
 });
 
 var FILE_RAW = 'config/ml/users_raw.json';
@@ -74,37 +77,29 @@ function checkForRefresh(){
     }
   });
 }
+
 function refreshData(){
   if(refreshing){
     return;
   }
-  var startTime = Date.now();
   refreshing = true;
-  function onFailure(err){
-    console.log('import failed. \n'+ err);
-    refreshing = false;
-  }
-
-  function transform(problem){
-    fs.writeFile(FILE_PROBLEM, JSON.stringify(problem,  null, 2));
-    refreshing = false;
-
-    var duration  = (Date.now() - startTime),
-      m= Math.floor(duration/MINUTE),
-      s= Math.floor((duration-m*MINUTE)/SECOND);
-    console.log("Duration: "+m+"M:"+s+"s");
-  }
-
   var data = JSON.parse(fs.readFileSync(FILE_RAW));
-  fs.readFile(FILE_TEMPLATE, function(err, buff){
-    if(err) {
-      throw err;
-    }
-    var problem = JSON.parse(buff);
-    problem.options = data;
-    transform(problem);
-  });
+  var problem = createDataRequest(data, FILE_TEMPLATE);
+  createData(problem);
+  refreshing = false;
 }
+
+function createData(problem){
+  fs.writeFile(FILE_PROBLEM, JSON.stringify(problem,  null, 2));
+}
+
+function createDataRequest(data, template){
+  var buff = fs.readFileSync(template);
+  var problem = JSON.parse(buff);
+  problem.options = data;
+  return problem;
+}
+
 setInterval(checkForRefresh, TIME_BETWEEN_CHECKS);
 
 function lastRefresh(callback){
