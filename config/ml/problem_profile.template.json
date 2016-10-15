@@ -1,0 +1,18 @@
+{
+  "subject": "MercadoLibre",
+  "columns": [
+    {
+      "key": "isActive",
+      "full_name": "Usuario Activo",
+      "type": "numeric",
+      "is_objective": true,
+      "goal": "min",
+      "format": "number:0",
+      "range": {
+        "low": 0,
+        "high": 1
+      },
+      "description": "Is the user currently active"
+    }
+  ]
+}

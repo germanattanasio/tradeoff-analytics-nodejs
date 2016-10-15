@@ -1,0 +1,7314 @@
+[
+  {
+    "key": 0,
+    "name": "Tamika Morrow",
+    "app_data": {
+      "email": "tamikamorrow@zenthall.com",
+      "phone": "+56 (911) 598-2072"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 6,
+      "rating": 0.75,
+      "points": 34091,
+      "completedTransactions": 72314
+    }
+  },
+  {
+    "key": 1,
+    "name": "Koch Cervantes",
+    "app_data": {
+      "email": "kochcervantes@zenthall.com",
+      "phone": "+56 (857) 575-2066"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 8,
+      "rating": 0.43,
+      "points": 41539,
+      "completedTransactions": 19106
+    }
+  },
+  {
+    "key": 2,
+    "name": "Jacobson Goodwin",
+    "app_data": {
+      "email": "jacobsongoodwin@zenthall.com",
+      "phone": "+56 (815) 578-3048"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 2,
+      "rating": 0.96,
+      "points": 48251,
+      "completedTransactions": 99308
+    }
+  },
+  {
+    "key": 3,
+    "name": "Alissa Foley",
+    "app_data": {
+      "email": "alissafoley@zenthall.com",
+      "phone": "+56 (809) 490-2850"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 8,
+      "rating": 0.06,
+      "points": 95447,
+      "completedTransactions": 80731
+    }
+  },
+  {
+    "key": 4,
+    "name": "Osborne Glover",
+    "app_data": {
+      "email": "osborneglover@zenthall.com",
+      "phone": "+56 (831) 552-2277"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 9,
+      "rating": 0.3,
+      "points": 39614,
+      "completedTransactions": 63412
+    }
+  },
+  {
+    "key": 5,
+    "name": "Warner Crane",
+    "app_data": {
+      "email": "warnercrane@zenthall.com",
+      "phone": "+56 (820) 520-2278"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 7,
+      "rating": 0.27,
+      "points": 35701,
+      "completedTransactions": 95322
+    }
+  },
+  {
+    "key": 6,
+    "name": "Bridges Bridges",
+    "app_data": {
+      "email": "bridgesbridges@zenthall.com",
+      "phone": "+56 (931) 511-2872"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 3,
+      "rating": 0.04,
+      "points": 4870,
+      "completedTransactions": 67766
+    }
+  },
+  {
+    "key": 7,
+    "name": "Dorsey Mcgowan",
+    "app_data": {
+      "email": "dorseymcgowan@zenthall.com",
+      "phone": "+56 (981) 431-3456"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 3,
+      "rating": 0.06,
+      "points": 27364,
+      "completedTransactions": 77463
+    }
+  },
+  {
+    "key": 8,
+    "name": "Poole Floyd",
+    "app_data": {
+      "email": "poolefloyd@zenthall.com",
+      "phone": "+56 (872) 597-2349"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 0,
+      "rating": 0.44,
+      "points": 47455,
+      "completedTransactions": 10860
+    }
+  },
+  {
+    "key": 9,
+    "name": "Corrine Sheppard",
+    "app_data": {
+      "email": "corrinesheppard@zenthall.com",
+      "phone": "+56 (967) 500-3094"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 4,
+      "rating": 0.05,
+      "points": 21737,
+      "completedTransactions": 31889
+    }
+  },
+  {
+    "key": 10,
+    "name": "Carla Lester",
+    "app_data": {
+      "email": "carlalester@zenthall.com",
+      "phone": "+56 (821) 498-2597"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 3,
+      "rating": 0.23,
+      "points": 33797,
+      "completedTransactions": 65243
+    }
+  },
+  {
+    "key": 11,
+    "name": "Houston Mclaughlin",
+    "app_data": {
+      "email": "houstonmclaughlin@zenthall.com",
+      "phone": "+56 (884) 417-2709"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 5,
+      "rating": 0.99,
+      "points": 256,
+      "completedTransactions": 85637
+    }
+  },
+  {
+    "key": 12,
+    "name": "Vega Harrington",
+    "app_data": {
+      "email": "vegaharrington@zenthall.com",
+      "phone": "+56 (849) 573-2531"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 3,
+      "rating": 0.78,
+      "points": 38466,
+      "completedTransactions": 42889
+    }
+  },
+  {
+    "key": 13,
+    "name": "Adrian Dickerson",
+    "app_data": {
+      "email": "adriandickerson@zenthall.com",
+      "phone": "+56 (822) 491-3709"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 7,
+      "rating": 0.36,
+      "points": 45239,
+      "completedTransactions": 27198
+    }
+  },
+  {
+    "key": 14,
+    "name": "Pamela Molina",
+    "app_data": {
+      "email": "pamelamolina@zenthall.com",
+      "phone": "+56 (879) 441-2142"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 6,
+      "rating": 0.92,
+      "points": 95528,
+      "completedTransactions": 6900
+    }
+  },
+  {
+    "key": 15,
+    "name": "Kelli Herring",
+    "app_data": {
+      "email": "kelliherring@zenthall.com",
+      "phone": "+56 (833) 403-2982"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 0,
+      "rating": 0.11,
+      "points": 38852,
+      "completedTransactions": 28736
+    }
+  },
+  {
+    "key": 16,
+    "name": "Turner Conner",
+    "app_data": {
+      "email": "turnerconner@zenthall.com",
+      "phone": "+56 (923) 578-2743"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 1,
+      "rating": 0.53,
+      "points": 75969,
+      "completedTransactions": 97064
+    }
+  },
+  {
+    "key": 17,
+    "name": "Earnestine Sharpe",
+    "app_data": {
+      "email": "earnestinesharpe@zenthall.com",
+      "phone": "+56 (894) 423-3044"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 3,
+      "rating": 0.3,
+      "points": 67013,
+      "completedTransactions": 77040
+    }
+  },
+  {
+    "key": 18,
+    "name": "Marci Young",
+    "app_data": {
+      "email": "marciyoung@zenthall.com",
+      "phone": "+56 (977) 418-2951"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 7,
+      "rating": 0.49,
+      "points": 13508,
+      "completedTransactions": 83472
+    }
+  },
+  {
+    "key": 19,
+    "name": "Katina Clark",
+    "app_data": {
+      "email": "katinaclark@zenthall.com",
+      "phone": "+56 (808) 454-2656"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 3,
+      "rating": 0.63,
+      "points": 16640,
+      "completedTransactions": 63821
+    }
+  },
+  {
+    "key": 20,
+    "name": "Meagan Sexton",
+    "app_data": {
+      "email": "meagansexton@zenthall.com",
+      "phone": "+56 (954) 533-3009"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 5,
+      "rating": 0.68,
+      "points": 95417,
+      "completedTransactions": 83099
+    }
+  },
+  {
+    "key": 21,
+    "name": "Bolton Morris",
+    "app_data": {
+      "email": "boltonmorris@zenthall.com",
+      "phone": "+56 (988) 547-3342"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 10,
+      "rating": 0.94,
+      "points": 79704,
+      "completedTransactions": 4618
+    }
+  },
+  {
+    "key": 22,
+    "name": "Alvarado Mack",
+    "app_data": {
+      "email": "alvaradomack@zenthall.com",
+      "phone": "+56 (807) 481-3605"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 1,
+      "rating": 0.07,
+      "points": 53954,
+      "completedTransactions": 96568
+    }
+  },
+  {
+    "key": 23,
+    "name": "Rollins Cannon",
+    "app_data": {
+      "email": "rollinscannon@zenthall.com",
+      "phone": "+56 (993) 434-2091"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 3,
+      "rating": 0.29,
+      "points": 17689,
+      "completedTransactions": 30480
+    }
+  },
+  {
+    "key": 24,
+    "name": "Lois Turner",
+    "app_data": {
+      "email": "loisturner@zenthall.com",
+      "phone": "+56 (929) 443-3950"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 4,
+      "rating": 0.02,
+      "points": 64475,
+      "completedTransactions": 67868
+    }
+  },
+  {
+    "key": 25,
+    "name": "Marta Rowland",
+    "app_data": {
+      "email": "martarowland@zenthall.com",
+      "phone": "+56 (972) 585-3379"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 9,
+      "rating": 0.6,
+      "points": 23754,
+      "completedTransactions": 6494
+    }
+  },
+  {
+    "key": 26,
+    "name": "Robert Duran",
+    "app_data": {
+      "email": "robertduran@zenthall.com",
+      "phone": "+56 (962) 527-2915"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 10,
+      "rating": 0.25,
+      "points": 81949,
+      "completedTransactions": 22326
+    }
+  },
+  {
+    "key": 27,
+    "name": "Margery Sargent",
+    "app_data": {
+      "email": "margerysargent@zenthall.com",
+      "phone": "+56 (895) 460-3793"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 4,
+      "rating": 1,
+      "points": 14111,
+      "completedTransactions": 39625
+    }
+  },
+  {
+    "key": 28,
+    "name": "Marlene Newman",
+    "app_data": {
+      "email": "marlenenewman@zenthall.com",
+      "phone": "+56 (991) 504-3134"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 3,
+      "rating": 0.76,
+      "points": 14408,
+      "completedTransactions": 98483
+    }
+  },
+  {
+    "key": 29,
+    "name": "Charles Hickman",
+    "app_data": {
+      "email": "charleshickman@zenthall.com",
+      "phone": "+56 (870) 415-3449"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 2,
+      "rating": 0.66,
+      "points": 86046,
+      "completedTransactions": 14584
+    }
+  },
+  {
+    "key": 30,
+    "name": "Mcmillan Roberson",
+    "app_data": {
+      "email": "mcmillanroberson@zenthall.com",
+      "phone": "+56 (965) 559-2162"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 5,
+      "rating": 0.07,
+      "points": 5761,
+      "completedTransactions": 76147
+    }
+  },
+  {
+    "key": 31,
+    "name": "Ortiz Mueller",
+    "app_data": {
+      "email": "ortizmueller@zenthall.com",
+      "phone": "+56 (984) 568-3433"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 1,
+      "rating": 0.05,
+      "points": 63615,
+      "completedTransactions": 37012
+    }
+  },
+  {
+    "key": 32,
+    "name": "Phyllis Kent",
+    "app_data": {
+      "email": "phylliskent@zenthall.com",
+      "phone": "+56 (841) 455-3447"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 3,
+      "rating": 0.11,
+      "points": 37134,
+      "completedTransactions": 21317
+    }
+  },
+  {
+    "key": 33,
+    "name": "Hernandez Sullivan",
+    "app_data": {
+      "email": "hernandezsullivan@zenthall.com",
+      "phone": "+56 (874) 558-2808"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 8,
+      "rating": 0.18,
+      "points": 56876,
+      "completedTransactions": 6608
+    }
+  },
+  {
+    "key": 34,
+    "name": "Pacheco Shannon",
+    "app_data": {
+      "email": "pachecoshannon@zenthall.com",
+      "phone": "+56 (959) 458-2231"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 2,
+      "rating": 0.31,
+      "points": 46705,
+      "completedTransactions": 82124
+    }
+  },
+  {
+    "key": 35,
+    "name": "Helga Barr",
+    "app_data": {
+      "email": "helgabarr@zenthall.com",
+      "phone": "+56 (940) 423-3801"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 8,
+      "rating": 0.69,
+      "points": 93765,
+      "completedTransactions": 9601
+    }
+  },
+  {
+    "key": 36,
+    "name": "Martinez Avery",
+    "app_data": {
+      "email": "martinezavery@zenthall.com",
+      "phone": "+56 (949) 494-3411"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 2,
+      "rating": 0.51,
+      "points": 58045,
+      "completedTransactions": 32441
+    }
+  },
+  {
+    "key": 37,
+    "name": "Odom Chaney",
+    "app_data": {
+      "email": "odomchaney@zenthall.com",
+      "phone": "+56 (857) 426-3295"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 10,
+      "rating": 0.09,
+      "points": 10392,
+      "completedTransactions": 85239
+    }
+  },
+  {
+    "key": 38,
+    "name": "Josephine Branch",
+    "app_data": {
+      "email": "josephinebranch@zenthall.com",
+      "phone": "+56 (873) 515-3545"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 7,
+      "rating": 0.38,
+      "points": 35513,
+      "completedTransactions": 37939
+    }
+  },
+  {
+    "key": 39,
+    "name": "Eaton Wheeler",
+    "app_data": {
+      "email": "eatonwheeler@zenthall.com",
+      "phone": "+56 (837) 402-3487"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 6,
+      "rating": 1,
+      "points": 4273,
+      "completedTransactions": 74681
+    }
+  },
+  {
+    "key": 40,
+    "name": "Mason Steele",
+    "app_data": {
+      "email": "masonsteele@zenthall.com",
+      "phone": "+56 (955) 573-3117"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 0,
+      "rating": 0.54,
+      "points": 94221,
+      "completedTransactions": 30048
+    }
+  },
+  {
+    "key": 41,
+    "name": "Jolene Farmer",
+    "app_data": {
+      "email": "jolenefarmer@zenthall.com",
+      "phone": "+56 (867) 591-3889"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 2,
+      "rating": 0.05,
+      "points": 99386,
+      "completedTransactions": 92612
+    }
+  },
+  {
+    "key": 42,
+    "name": "Clemons Hewitt",
+    "app_data": {
+      "email": "clemonshewitt@zenthall.com",
+      "phone": "+56 (803) 550-2922"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 4,
+      "rating": 0,
+      "points": 7492,
+      "completedTransactions": 35876
+    }
+  },
+  {
+    "key": 43,
+    "name": "Rosella Murphy",
+    "app_data": {
+      "email": "rosellamurphy@zenthall.com",
+      "phone": "+56 (993) 484-3012"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 4,
+      "rating": 0.21,
+      "points": 82937,
+      "completedTransactions": 89432
+    }
+  },
+  {
+    "key": 44,
+    "name": "Ola Bruce",
+    "app_data": {
+      "email": "olabruce@zenthall.com",
+      "phone": "+56 (906) 408-3314"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 10,
+      "rating": 0.4,
+      "points": 80168,
+      "completedTransactions": 96190
+    }
+  },
+  {
+    "key": 45,
+    "name": "Ray Porter",
+    "app_data": {
+      "email": "rayporter@zenthall.com",
+      "phone": "+56 (807) 586-3961"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 8,
+      "rating": 0.45,
+      "points": 74457,
+      "completedTransactions": 7951
+    }
+  },
+  {
+    "key": 46,
+    "name": "Ochoa Dotson",
+    "app_data": {
+      "email": "ochoadotson@zenthall.com",
+      "phone": "+56 (824) 412-3020"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 3,
+      "rating": 0.3,
+      "points": 33325,
+      "completedTransactions": 8042
+    }
+  },
+  {
+    "key": 47,
+    "name": "Helena Wall",
+    "app_data": {
+      "email": "helenawall@zenthall.com",
+      "phone": "+56 (880) 510-3353"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 7,
+      "rating": 0.26,
+      "points": 84731,
+      "completedTransactions": 90540
+    }
+  },
+  {
+    "key": 48,
+    "name": "Natasha Phillips",
+    "app_data": {
+      "email": "natashaphillips@zenthall.com",
+      "phone": "+56 (934) 600-3629"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 3,
+      "rating": 0.39,
+      "points": 23765,
+      "completedTransactions": 19172
+    }
+  },
+  {
+    "key": 49,
+    "name": "Rojas Figueroa",
+    "app_data": {
+      "email": "rojasfigueroa@zenthall.com",
+      "phone": "+56 (916) 440-2647"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 2,
+      "rating": 0.36,
+      "points": 76307,
+      "completedTransactions": 60854
+    }
+  },
+  {
+    "key": 50,
+    "name": "Rogers Baird",
+    "app_data": {
+      "email": "rogersbaird@zenthall.com",
+      "phone": "+56 (862) 586-2363"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 5,
+      "rating": 0.3,
+      "points": 91386,
+      "completedTransactions": 89537
+    }
+  },
+  {
+    "key": 51,
+    "name": "Melanie Villarreal",
+    "app_data": {
+      "email": "melanievillarreal@zenthall.com",
+      "phone": "+56 (963) 442-3668"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 9,
+      "rating": 0.7,
+      "points": 74705,
+      "completedTransactions": 96034
+    }
+  },
+  {
+    "key": 52,
+    "name": "Whitaker Bernard",
+    "app_data": {
+      "email": "whitakerbernard@zenthall.com",
+      "phone": "+56 (994) 432-3657"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 3,
+      "rating": 0.9,
+      "points": 97822,
+      "completedTransactions": 65200
+    }
+  },
+  {
+    "key": 53,
+    "name": "Hilary Maxwell",
+    "app_data": {
+      "email": "hilarymaxwell@zenthall.com",
+      "phone": "+56 (869) 522-2345"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 8,
+      "rating": 1,
+      "points": 61781,
+      "completedTransactions": 44753
+    }
+  },
+  {
+    "key": 54,
+    "name": "Bryan Whitney",
+    "app_data": {
+      "email": "bryanwhitney@zenthall.com",
+      "phone": "+56 (988) 436-2859"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 2,
+      "rating": 0.21,
+      "points": 68563,
+      "completedTransactions": 83194
+    }
+  },
+  {
+    "key": 55,
+    "name": "Florine Dodson",
+    "app_data": {
+      "email": "florinedodson@zenthall.com",
+      "phone": "+56 (849) 497-3114"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 1,
+      "rating": 0.73,
+      "points": 44735,
+      "completedTransactions": 69151
+    }
+  },
+  {
+    "key": 56,
+    "name": "Stanley Skinner",
+    "app_data": {
+      "email": "stanleyskinner@zenthall.com",
+      "phone": "+56 (967) 599-3809"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 0,
+      "rating": 0.89,
+      "points": 33030,
+      "completedTransactions": 87563
+    }
+  },
+  {
+    "key": 57,
+    "name": "Crystal Preston",
+    "app_data": {
+      "email": "crystalpreston@zenthall.com",
+      "phone": "+56 (948) 405-3968"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 7,
+      "rating": 0.61,
+      "points": 43151,
+      "completedTransactions": 15404
+    }
+  },
+  {
+    "key": 58,
+    "name": "Aguilar Blackburn",
+    "app_data": {
+      "email": "aguilarblackburn@zenthall.com",
+      "phone": "+56 (924) 423-2682"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 10,
+      "rating": 0.61,
+      "points": 95003,
+      "completedTransactions": 95912
+    }
+  },
+  {
+    "key": 59,
+    "name": "Annie Lee",
+    "app_data": {
+      "email": "annielee@zenthall.com",
+      "phone": "+56 (972) 559-2210"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 2,
+      "rating": 0.03,
+      "points": 15172,
+      "completedTransactions": 86354
+    }
+  },
+  {
+    "key": 60,
+    "name": "Teri Mclean",
+    "app_data": {
+      "email": "terimclean@zenthall.com",
+      "phone": "+56 (867) 517-3157"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 10,
+      "rating": 0.01,
+      "points": 39702,
+      "completedTransactions": 47878
+    }
+  },
+  {
+    "key": 61,
+    "name": "Heather Winters",
+    "app_data": {
+      "email": "heatherwinters@zenthall.com",
+      "phone": "+56 (827) 599-2528"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 4,
+      "rating": 0.14,
+      "points": 25860,
+      "completedTransactions": 49942
+    }
+  },
+  {
+    "key": 62,
+    "name": "Gwendolyn Greene",
+    "app_data": {
+      "email": "gwendolyngreene@zenthall.com",
+      "phone": "+56 (818) 492-2606"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 5,
+      "rating": 0.66,
+      "points": 78952,
+      "completedTransactions": 75590
+    }
+  },
+  {
+    "key": 63,
+    "name": "Obrien Compton",
+    "app_data": {
+      "email": "obriencompton@zenthall.com",
+      "phone": "+56 (820) 497-3894"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 2,
+      "rating": 0.06,
+      "points": 29954,
+      "completedTransactions": 4089
+    }
+  },
+  {
+    "key": 64,
+    "name": "Powers Massey",
+    "app_data": {
+      "email": "powersmassey@zenthall.com",
+      "phone": "+56 (801) 564-2599"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 0,
+      "rating": 0.31,
+      "points": 30728,
+      "completedTransactions": 8376
+    }
+  },
+  {
+    "key": 65,
+    "name": "Copeland Hatfield",
+    "app_data": {
+      "email": "copelandhatfield@zenthall.com",
+      "phone": "+56 (923) 422-2504"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 8,
+      "rating": 0.74,
+      "points": 58612,
+      "completedTransactions": 59479
+    }
+  },
+  {
+    "key": 66,
+    "name": "Renee Bowers",
+    "app_data": {
+      "email": "reneebowers@zenthall.com",
+      "phone": "+56 (942) 576-3600"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 5,
+      "rating": 0.53,
+      "points": 76069,
+      "completedTransactions": 15774
+    }
+  },
+  {
+    "key": 67,
+    "name": "Sheila England",
+    "app_data": {
+      "email": "sheilaengland@zenthall.com",
+      "phone": "+56 (918) 585-3667"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 1,
+      "rating": 0.79,
+      "points": 97572,
+      "completedTransactions": 50953
+    }
+  },
+  {
+    "key": 68,
+    "name": "Hayden Valdez",
+    "app_data": {
+      "email": "haydenvaldez@zenthall.com",
+      "phone": "+56 (811) 453-3341"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 5,
+      "rating": 0.11,
+      "points": 75131,
+      "completedTransactions": 92047
+    }
+  },
+  {
+    "key": 69,
+    "name": "Davenport Larson",
+    "app_data": {
+      "email": "davenportlarson@zenthall.com",
+      "phone": "+56 (896) 520-2162"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 2,
+      "rating": 0.96,
+      "points": 16878,
+      "completedTransactions": 94721
+    }
+  },
+  {
+    "key": 70,
+    "name": "Fisher Hendricks",
+    "app_data": {
+      "email": "fisherhendricks@zenthall.com",
+      "phone": "+56 (945) 426-3149"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 3,
+      "rating": 0.67,
+      "points": 2704,
+      "completedTransactions": 51498
+    }
+  },
+  {
+    "key": 71,
+    "name": "Randi Ayala",
+    "app_data": {
+      "email": "randiayala@zenthall.com",
+      "phone": "+56 (933) 440-3907"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 0,
+      "rating": 0.23,
+      "points": 51924,
+      "completedTransactions": 1258
+    }
+  },
+  {
+    "key": 72,
+    "name": "Santana White",
+    "app_data": {
+      "email": "santanawhite@zenthall.com",
+      "phone": "+56 (933) 580-2067"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 9,
+      "rating": 0.66,
+      "points": 16531,
+      "completedTransactions": 13140
+    }
+  },
+  {
+    "key": 73,
+    "name": "Terry Clements",
+    "app_data": {
+      "email": "terryclements@zenthall.com",
+      "phone": "+56 (909) 415-3434"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 2,
+      "rating": 0.86,
+      "points": 95574,
+      "completedTransactions": 70488
+    }
+  },
+  {
+    "key": 74,
+    "name": "Holcomb Mayo",
+    "app_data": {
+      "email": "holcombmayo@zenthall.com",
+      "phone": "+56 (909) 559-2876"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 4,
+      "rating": 0.57,
+      "points": 72924,
+      "completedTransactions": 88956
+    }
+  },
+  {
+    "key": 75,
+    "name": "Marian Miller",
+    "app_data": {
+      "email": "marianmiller@zenthall.com",
+      "phone": "+56 (807) 432-2165"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 9,
+      "rating": 0.33,
+      "points": 88645,
+      "completedTransactions": 43923
+    }
+  },
+  {
+    "key": 76,
+    "name": "Penny Cantu",
+    "app_data": {
+      "email": "pennycantu@zenthall.com",
+      "phone": "+56 (977) 466-3925"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 3,
+      "rating": 0.56,
+      "points": 97629,
+      "completedTransactions": 18840
+    }
+  },
+  {
+    "key": 77,
+    "name": "Rosalind Peterson",
+    "app_data": {
+      "email": "rosalindpeterson@zenthall.com",
+      "phone": "+56 (910) 484-2448"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 2,
+      "rating": 0,
+      "points": 21915,
+      "completedTransactions": 6217
+    }
+  },
+  {
+    "key": 78,
+    "name": "Bray Mercado",
+    "app_data": {
+      "email": "braymercado@zenthall.com",
+      "phone": "+56 (921) 594-2977"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 0,
+      "rating": 0.05,
+      "points": 69458,
+      "completedTransactions": 85288
+    }
+  },
+  {
+    "key": 79,
+    "name": "Angelita Hendrix",
+    "app_data": {
+      "email": "angelitahendrix@zenthall.com",
+      "phone": "+56 (840) 574-2861"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 0,
+      "rating": 0.11,
+      "points": 88795,
+      "completedTransactions": 31145
+    }
+  },
+  {
+    "key": 80,
+    "name": "Marshall Cohen",
+    "app_data": {
+      "email": "marshallcohen@zenthall.com",
+      "phone": "+56 (802) 512-2818"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 9,
+      "rating": 0.5,
+      "points": 12063,
+      "completedTransactions": 70811
+    }
+  },
+  {
+    "key": 81,
+    "name": "Marquez Page",
+    "app_data": {
+      "email": "marquezpage@zenthall.com",
+      "phone": "+56 (979) 551-3138"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 3,
+      "rating": 0.32,
+      "points": 19691,
+      "completedTransactions": 37978
+    }
+  },
+  {
+    "key": 82,
+    "name": "Susana Mitchell",
+    "app_data": {
+      "email": "susanamitchell@zenthall.com",
+      "phone": "+56 (944) 427-3563"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 4,
+      "rating": 0.44,
+      "points": 53196,
+      "completedTransactions": 78718
+    }
+  },
+  {
+    "key": 83,
+    "name": "Alberta Guzman",
+    "app_data": {
+      "email": "albertaguzman@zenthall.com",
+      "phone": "+56 (903) 401-2454"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 10,
+      "rating": 0.95,
+      "points": 30753,
+      "completedTransactions": 82026
+    }
+  },
+  {
+    "key": 84,
+    "name": "Mosley Shepard",
+    "app_data": {
+      "email": "mosleyshepard@zenthall.com",
+      "phone": "+56 (831) 586-2915"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 8,
+      "rating": 0.02,
+      "points": 82711,
+      "completedTransactions": 9894
+    }
+  },
+  {
+    "key": 85,
+    "name": "Hebert Finley",
+    "app_data": {
+      "email": "hebertfinley@zenthall.com",
+      "phone": "+56 (812) 600-3842"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 6,
+      "rating": 0.33,
+      "points": 51517,
+      "completedTransactions": 13123
+    }
+  },
+  {
+    "key": 86,
+    "name": "Gabriela Cole",
+    "app_data": {
+      "email": "gabrielacole@zenthall.com",
+      "phone": "+56 (939) 513-3044"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 7,
+      "rating": 0.23,
+      "points": 75804,
+      "completedTransactions": 28570
+    }
+  },
+  {
+    "key": 87,
+    "name": "Mollie Carson",
+    "app_data": {
+      "email": "molliecarson@zenthall.com",
+      "phone": "+56 (877) 493-2253"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 10,
+      "rating": 0.57,
+      "points": 15293,
+      "completedTransactions": 60125
+    }
+  },
+  {
+    "key": 88,
+    "name": "Hutchinson Watson",
+    "app_data": {
+      "email": "hutchinsonwatson@zenthall.com",
+      "phone": "+56 (926) 569-2968"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 2,
+      "rating": 0.9,
+      "points": 91230,
+      "completedTransactions": 57731
+    }
+  },
+  {
+    "key": 89,
+    "name": "Lynch Moran",
+    "app_data": {
+      "email": "lynchmoran@zenthall.com",
+      "phone": "+56 (910) 553-3964"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 7,
+      "rating": 0.32,
+      "points": 11595,
+      "completedTransactions": 63055
+    }
+  },
+  {
+    "key": 90,
+    "name": "Nikki Abbott",
+    "app_data": {
+      "email": "nikkiabbott@zenthall.com",
+      "phone": "+56 (840) 451-2544"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 5,
+      "rating": 0.79,
+      "points": 57204,
+      "completedTransactions": 15861
+    }
+  },
+  {
+    "key": 91,
+    "name": "Grant Hubbard",
+    "app_data": {
+      "email": "granthubbard@zenthall.com",
+      "phone": "+56 (900) 410-3302"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 4,
+      "rating": 0.66,
+      "points": 97031,
+      "completedTransactions": 12076
+    }
+  },
+  {
+    "key": 92,
+    "name": "Myra Valencia",
+    "app_data": {
+      "email": "myravalencia@zenthall.com",
+      "phone": "+56 (810) 472-2763"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 0,
+      "rating": 0.36,
+      "points": 12575,
+      "completedTransactions": 25268
+    }
+  },
+  {
+    "key": 93,
+    "name": "Earlene Torres",
+    "app_data": {
+      "email": "earlenetorres@zenthall.com",
+      "phone": "+56 (810) 538-3326"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 4,
+      "rating": 0.04,
+      "points": 6152,
+      "completedTransactions": 64412
+    }
+  },
+  {
+    "key": 94,
+    "name": "Alice Church",
+    "app_data": {
+      "email": "alicechurch@zenthall.com",
+      "phone": "+56 (824) 464-2260"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 1,
+      "rating": 0.93,
+      "points": 98568,
+      "completedTransactions": 72791
+    }
+  },
+  {
+    "key": 95,
+    "name": "Tracey Levy",
+    "app_data": {
+      "email": "traceylevy@zenthall.com",
+      "phone": "+56 (914) 497-2276"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 9,
+      "rating": 0.79,
+      "points": 99756,
+      "completedTransactions": 34679
+    }
+  },
+  {
+    "key": 96,
+    "name": "Clare Fisher",
+    "app_data": {
+      "email": "clarefisher@zenthall.com",
+      "phone": "+56 (844) 564-3111"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 2,
+      "rating": 0.17,
+      "points": 32092,
+      "completedTransactions": 48738
+    }
+  },
+  {
+    "key": 97,
+    "name": "Burton Blair",
+    "app_data": {
+      "email": "burtonblair@zenthall.com",
+      "phone": "+56 (864) 442-3491"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 10,
+      "rating": 0.29,
+      "points": 11846,
+      "completedTransactions": 57508
+    }
+  },
+  {
+    "key": 98,
+    "name": "Katrina Bender",
+    "app_data": {
+      "email": "katrinabender@zenthall.com",
+      "phone": "+56 (877) 508-3825"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 6,
+      "rating": 0.64,
+      "points": 17190,
+      "completedTransactions": 47331
+    }
+  },
+  {
+    "key": 99,
+    "name": "Castro Puckett",
+    "app_data": {
+      "email": "castropuckett@zenthall.com",
+      "phone": "+56 (938) 580-3293"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 6,
+      "rating": 0.93,
+      "points": 58829,
+      "completedTransactions": 15218
+    }
+  },
+  {
+    "key": 100,
+    "name": "Pat Hardin",
+    "app_data": {
+      "email": "pathardin@zenthall.com",
+      "phone": "+56 (824) 440-2471"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 4,
+      "rating": 0.47,
+      "points": 60536,
+      "completedTransactions": 87035
+    }
+  },
+  {
+    "key": 101,
+    "name": "Briana Hayden",
+    "app_data": {
+      "email": "brianahayden@zenthall.com",
+      "phone": "+56 (940) 407-3657"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 7,
+      "rating": 0.74,
+      "points": 2557,
+      "completedTransactions": 71610
+    }
+  },
+  {
+    "key": 102,
+    "name": "Brittany Anthony",
+    "app_data": {
+      "email": "brittanyanthony@zenthall.com",
+      "phone": "+56 (979) 577-2590"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 2,
+      "rating": 0.88,
+      "points": 68183,
+      "completedTransactions": 82232
+    }
+  },
+  {
+    "key": 103,
+    "name": "Curry Roth",
+    "app_data": {
+      "email": "curryroth@zenthall.com",
+      "phone": "+56 (970) 540-2093"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 7,
+      "rating": 0.97,
+      "points": 19588,
+      "completedTransactions": 89554
+    }
+  },
+  {
+    "key": 104,
+    "name": "Imelda Munoz",
+    "app_data": {
+      "email": "imeldamunoz@zenthall.com",
+      "phone": "+56 (926) 477-2665"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 2,
+      "rating": 0.38,
+      "points": 85679,
+      "completedTransactions": 17983
+    }
+  },
+  {
+    "key": 105,
+    "name": "Lauri Tran",
+    "app_data": {
+      "email": "lauritran@zenthall.com",
+      "phone": "+56 (915) 543-2545"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 0,
+      "rating": 0.3,
+      "points": 96420,
+      "completedTransactions": 82515
+    }
+  },
+  {
+    "key": 106,
+    "name": "Carmen Hensley",
+    "app_data": {
+      "email": "carmenhensley@zenthall.com",
+      "phone": "+56 (879) 586-2396"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 2,
+      "rating": 0.12,
+      "points": 76242,
+      "completedTransactions": 56586
+    }
+  },
+  {
+    "key": 107,
+    "name": "Tracie Schwartz",
+    "app_data": {
+      "email": "tracieschwartz@zenthall.com",
+      "phone": "+56 (811) 419-2480"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 2,
+      "rating": 0.1,
+      "points": 29748,
+      "completedTransactions": 43456
+    }
+  },
+  {
+    "key": 108,
+    "name": "Chelsea Marquez",
+    "app_data": {
+      "email": "chelseamarquez@zenthall.com",
+      "phone": "+56 (866) 464-2384"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 10,
+      "rating": 0.98,
+      "points": 27970,
+      "completedTransactions": 59041
+    }
+  },
+  {
+    "key": 109,
+    "name": "Jacquelyn Fry",
+    "app_data": {
+      "email": "jacquelynfry@zenthall.com",
+      "phone": "+56 (929) 585-2987"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 7,
+      "rating": 0.26,
+      "points": 5923,
+      "completedTransactions": 65243
+    }
+  },
+  {
+    "key": 110,
+    "name": "Marguerite Bennett",
+    "app_data": {
+      "email": "margueritebennett@zenthall.com",
+      "phone": "+56 (960) 430-2572"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 8,
+      "rating": 0.81,
+      "points": 93041,
+      "completedTransactions": 53380
+    }
+  },
+  {
+    "key": 111,
+    "name": "Larson Weiss",
+    "app_data": {
+      "email": "larsonweiss@zenthall.com",
+      "phone": "+56 (895) 582-2565"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 10,
+      "rating": 0.12,
+      "points": 24845,
+      "completedTransactions": 27202
+    }
+  },
+  {
+    "key": 112,
+    "name": "Ladonna Cooper",
+    "app_data": {
+      "email": "ladonnacooper@zenthall.com",
+      "phone": "+56 (963) 512-2797"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 7,
+      "rating": 0.67,
+      "points": 21432,
+      "completedTransactions": 16022
+    }
+  },
+  {
+    "key": 113,
+    "name": "Eula Oneill",
+    "app_data": {
+      "email": "eulaoneill@zenthall.com",
+      "phone": "+56 (886) 600-2390"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 2,
+      "rating": 0.67,
+      "points": 26664,
+      "completedTransactions": 18599
+    }
+  },
+  {
+    "key": 114,
+    "name": "Marisa Edwards",
+    "app_data": {
+      "email": "marisaedwards@zenthall.com",
+      "phone": "+56 (951) 504-3741"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 8,
+      "rating": 0.53,
+      "points": 13750,
+      "completedTransactions": 17245
+    }
+  },
+  {
+    "key": 115,
+    "name": "Pace Rowe",
+    "app_data": {
+      "email": "pacerowe@zenthall.com",
+      "phone": "+56 (848) 522-3783"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 9,
+      "rating": 0.04,
+      "points": 55023,
+      "completedTransactions": 26345
+    }
+  },
+  {
+    "key": 116,
+    "name": "Nixon Casey",
+    "app_data": {
+      "email": "nixoncasey@zenthall.com",
+      "phone": "+56 (962) 430-2815"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 5,
+      "rating": 0.91,
+      "points": 11866,
+      "completedTransactions": 84466
+    }
+  },
+  {
+    "key": 117,
+    "name": "Janelle Mcguire",
+    "app_data": {
+      "email": "janellemcguire@zenthall.com",
+      "phone": "+56 (825) 436-3227"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 10,
+      "rating": 0.53,
+      "points": 14734,
+      "completedTransactions": 13579
+    }
+  },
+  {
+    "key": 118,
+    "name": "Michelle Delacruz",
+    "app_data": {
+      "email": "michelledelacruz@zenthall.com",
+      "phone": "+56 (921) 593-3872"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 9,
+      "rating": 0.48,
+      "points": 90881,
+      "completedTransactions": 89401
+    }
+  },
+  {
+    "key": 119,
+    "name": "Luz Hobbs",
+    "app_data": {
+      "email": "luzhobbs@zenthall.com",
+      "phone": "+56 (894) 420-2208"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 6,
+      "rating": 0.77,
+      "points": 36677,
+      "completedTransactions": 22427
+    }
+  },
+  {
+    "key": 120,
+    "name": "Karina Russell",
+    "app_data": {
+      "email": "karinarussell@zenthall.com",
+      "phone": "+56 (840) 426-3399"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 7,
+      "rating": 0.09,
+      "points": 53518,
+      "completedTransactions": 65218
+    }
+  },
+  {
+    "key": 121,
+    "name": "Lloyd Perkins",
+    "app_data": {
+      "email": "lloydperkins@zenthall.com",
+      "phone": "+56 (820) 563-2839"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 3,
+      "rating": 0,
+      "points": 10025,
+      "completedTransactions": 91122
+    }
+  },
+  {
+    "key": 122,
+    "name": "Campbell Mcdonald",
+    "app_data": {
+      "email": "campbellmcdonald@zenthall.com",
+      "phone": "+56 (943) 532-3436"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 8,
+      "rating": 0.82,
+      "points": 75851,
+      "completedTransactions": 80352
+    }
+  },
+  {
+    "key": 123,
+    "name": "Matthews Bates",
+    "app_data": {
+      "email": "matthewsbates@zenthall.com",
+      "phone": "+56 (947) 528-2917"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 0,
+      "rating": 0.2,
+      "points": 73515,
+      "completedTransactions": 97183
+    }
+  },
+  {
+    "key": 124,
+    "name": "Paul Guthrie",
+    "app_data": {
+      "email": "paulguthrie@zenthall.com",
+      "phone": "+56 (933) 401-3670"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 2,
+      "rating": 0.82,
+      "points": 12190,
+      "completedTransactions": 99893
+    }
+  },
+  {
+    "key": 125,
+    "name": "Pollard Cline",
+    "app_data": {
+      "email": "pollardcline@zenthall.com",
+      "phone": "+56 (959) 426-3178"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 6,
+      "rating": 0.1,
+      "points": 89715,
+      "completedTransactions": 49865
+    }
+  },
+  {
+    "key": 126,
+    "name": "Jaime Berg",
+    "app_data": {
+      "email": "jaimeberg@zenthall.com",
+      "phone": "+56 (937) 565-2230"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 5,
+      "rating": 0.24,
+      "points": 84924,
+      "completedTransactions": 36618
+    }
+  },
+  {
+    "key": 127,
+    "name": "Lorrie Maddox",
+    "app_data": {
+      "email": "lorriemaddox@zenthall.com",
+      "phone": "+56 (841) 498-2322"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 7,
+      "rating": 0.28,
+      "points": 96652,
+      "completedTransactions": 84564
+    }
+  },
+  {
+    "key": 128,
+    "name": "Heidi Ray",
+    "app_data": {
+      "email": "heidiray@zenthall.com",
+      "phone": "+56 (855) 510-3333"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 5,
+      "rating": 0.18,
+      "points": 55704,
+      "completedTransactions": 93164
+    }
+  },
+  {
+    "key": 129,
+    "name": "Fulton Murray",
+    "app_data": {
+      "email": "fultonmurray@zenthall.com",
+      "phone": "+56 (929) 588-2227"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 9,
+      "rating": 0.72,
+      "points": 25459,
+      "completedTransactions": 71966
+    }
+  },
+  {
+    "key": 130,
+    "name": "Ava Gilliam",
+    "app_data": {
+      "email": "avagilliam@zenthall.com",
+      "phone": "+56 (870) 532-2947"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 5,
+      "rating": 0.79,
+      "points": 40625,
+      "completedTransactions": 18693
+    }
+  },
+  {
+    "key": 131,
+    "name": "Natalie Myers",
+    "app_data": {
+      "email": "nataliemyers@zenthall.com",
+      "phone": "+56 (817) 569-2026"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 1,
+      "rating": 0.02,
+      "points": 6247,
+      "completedTransactions": 65249
+    }
+  },
+  {
+    "key": 132,
+    "name": "Lucy Parks",
+    "app_data": {
+      "email": "lucyparks@zenthall.com",
+      "phone": "+56 (870) 429-3489"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 2,
+      "rating": 0.79,
+      "points": 92419,
+      "completedTransactions": 80259
+    }
+  },
+  {
+    "key": 133,
+    "name": "Logan Kerr",
+    "app_data": {
+      "email": "logankerr@zenthall.com",
+      "phone": "+56 (954) 539-2538"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 7,
+      "rating": 0.41,
+      "points": 1422,
+      "completedTransactions": 67919
+    }
+  },
+  {
+    "key": 134,
+    "name": "Carlson Curry",
+    "app_data": {
+      "email": "carlsoncurry@zenthall.com",
+      "phone": "+56 (974) 403-3740"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 4,
+      "rating": 0.11,
+      "points": 42571,
+      "completedTransactions": 90958
+    }
+  },
+  {
+    "key": 135,
+    "name": "Pam Warner",
+    "app_data": {
+      "email": "pamwarner@zenthall.com",
+      "phone": "+56 (805) 489-3777"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 6,
+      "rating": 0.57,
+      "points": 56590,
+      "completedTransactions": 69454
+    }
+  },
+  {
+    "key": 136,
+    "name": "Dionne York",
+    "app_data": {
+      "email": "dionneyork@zenthall.com",
+      "phone": "+56 (959) 466-3723"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 4,
+      "rating": 0.99,
+      "points": 17428,
+      "completedTransactions": 76340
+    }
+  },
+  {
+    "key": 137,
+    "name": "Liza Lindsey",
+    "app_data": {
+      "email": "lizalindsey@zenthall.com",
+      "phone": "+56 (996) 494-3126"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 6,
+      "rating": 0.36,
+      "points": 57214,
+      "completedTransactions": 76345
+    }
+  },
+  {
+    "key": 138,
+    "name": "Eileen Stanley",
+    "app_data": {
+      "email": "eileenstanley@zenthall.com",
+      "phone": "+56 (990) 510-3046"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 0,
+      "rating": 0.92,
+      "points": 43716,
+      "completedTransactions": 52053
+    }
+  },
+  {
+    "key": 139,
+    "name": "Abbott Benjamin",
+    "app_data": {
+      "email": "abbottbenjamin@zenthall.com",
+      "phone": "+56 (921) 438-3627"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 7,
+      "rating": 0.01,
+      "points": 78582,
+      "completedTransactions": 75578
+    }
+  },
+  {
+    "key": 140,
+    "name": "Manuela Malone",
+    "app_data": {
+      "email": "manuelamalone@zenthall.com",
+      "phone": "+56 (921) 515-2299"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 7,
+      "rating": 0.32,
+      "points": 38605,
+      "completedTransactions": 72162
+    }
+  },
+  {
+    "key": 141,
+    "name": "Henderson Travis",
+    "app_data": {
+      "email": "hendersontravis@zenthall.com",
+      "phone": "+56 (863) 412-3380"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 9,
+      "rating": 0.45,
+      "points": 73344,
+      "completedTransactions": 4685
+    }
+  },
+  {
+    "key": 142,
+    "name": "Amie Whitaker",
+    "app_data": {
+      "email": "amiewhitaker@zenthall.com",
+      "phone": "+56 (988) 469-3503"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 8,
+      "rating": 0.68,
+      "points": 24861,
+      "completedTransactions": 29603
+    }
+  },
+  {
+    "key": 143,
+    "name": "Garrett Hess",
+    "app_data": {
+      "email": "garretthess@zenthall.com",
+      "phone": "+56 (913) 582-2065"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 4,
+      "rating": 0.13,
+      "points": 33717,
+      "completedTransactions": 97485
+    }
+  },
+  {
+    "key": 144,
+    "name": "Jarvis Finch",
+    "app_data": {
+      "email": "jarvisfinch@zenthall.com",
+      "phone": "+56 (998) 440-3144"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 4,
+      "rating": 0.18,
+      "points": 4734,
+      "completedTransactions": 1294
+    }
+  },
+  {
+    "key": 145,
+    "name": "Twila Wright",
+    "app_data": {
+      "email": "twilawright@zenthall.com",
+      "phone": "+56 (825) 463-3987"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 0,
+      "rating": 0.37,
+      "points": 88094,
+      "completedTransactions": 11695
+    }
+  },
+  {
+    "key": 146,
+    "name": "Melissa Nielsen",
+    "app_data": {
+      "email": "melissanielsen@zenthall.com",
+      "phone": "+56 (979) 589-2245"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 7,
+      "rating": 0.48,
+      "points": 65728,
+      "completedTransactions": 62532
+    }
+  },
+  {
+    "key": 147,
+    "name": "Powell Rollins",
+    "app_data": {
+      "email": "powellrollins@zenthall.com",
+      "phone": "+56 (883) 474-3412"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 1,
+      "rating": 0.52,
+      "points": 49997,
+      "completedTransactions": 34282
+    }
+  },
+  {
+    "key": 148,
+    "name": "Lori Tate",
+    "app_data": {
+      "email": "loritate@zenthall.com",
+      "phone": "+56 (847) 434-3819"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 6,
+      "rating": 0.61,
+      "points": 4524,
+      "completedTransactions": 75480
+    }
+  },
+  {
+    "key": 149,
+    "name": "Bettye Weber",
+    "app_data": {
+      "email": "bettyeweber@zenthall.com",
+      "phone": "+56 (892) 496-3955"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 0,
+      "rating": 1,
+      "points": 47081,
+      "completedTransactions": 35635
+    }
+  },
+  {
+    "key": 150,
+    "name": "Francis Nguyen",
+    "app_data": {
+      "email": "francisnguyen@zenthall.com",
+      "phone": "+56 (925) 483-2239"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 8,
+      "rating": 0.82,
+      "points": 76987,
+      "completedTransactions": 43739
+    }
+  },
+  {
+    "key": 151,
+    "name": "Alta Gomez",
+    "app_data": {
+      "email": "altagomez@zenthall.com",
+      "phone": "+56 (889) 433-2042"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 6,
+      "rating": 0.67,
+      "points": 52348,
+      "completedTransactions": 98437
+    }
+  },
+  {
+    "key": 152,
+    "name": "Corina Norman",
+    "app_data": {
+      "email": "corinanorman@zenthall.com",
+      "phone": "+56 (989) 482-3943"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 2,
+      "rating": 0.48,
+      "points": 46186,
+      "completedTransactions": 40960
+    }
+  },
+  {
+    "key": 153,
+    "name": "Sallie Faulkner",
+    "app_data": {
+      "email": "salliefaulkner@zenthall.com",
+      "phone": "+56 (875) 424-3459"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 7,
+      "rating": 0.01,
+      "points": 20451,
+      "completedTransactions": 36490
+    }
+  },
+  {
+    "key": 154,
+    "name": "Lewis Cote",
+    "app_data": {
+      "email": "lewiscote@zenthall.com",
+      "phone": "+56 (924) 465-2421"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 0,
+      "rating": 0.53,
+      "points": 48762,
+      "completedTransactions": 17804
+    }
+  },
+  {
+    "key": 155,
+    "name": "Blake Mcfadden",
+    "app_data": {
+      "email": "blakemcfadden@zenthall.com",
+      "phone": "+56 (898) 499-2928"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 10,
+      "rating": 0.22,
+      "points": 62220,
+      "completedTransactions": 79147
+    }
+  },
+  {
+    "key": 156,
+    "name": "Joyner Quinn",
+    "app_data": {
+      "email": "joynerquinn@zenthall.com",
+      "phone": "+56 (808) 540-2095"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 7,
+      "rating": 0.76,
+      "points": 44026,
+      "completedTransactions": 43374
+    }
+  },
+  {
+    "key": 157,
+    "name": "Paula Lang",
+    "app_data": {
+      "email": "paulalang@zenthall.com",
+      "phone": "+56 (892) 425-3234"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 6,
+      "rating": 0.09,
+      "points": 50078,
+      "completedTransactions": 9098
+    }
+  },
+  {
+    "key": 158,
+    "name": "Jean Giles",
+    "app_data": {
+      "email": "jeangiles@zenthall.com",
+      "phone": "+56 (914) 428-2347"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 1,
+      "rating": 0.35,
+      "points": 5928,
+      "completedTransactions": 8601
+    }
+  },
+  {
+    "key": 159,
+    "name": "Solis Harris",
+    "app_data": {
+      "email": "solisharris@zenthall.com",
+      "phone": "+56 (878) 437-2094"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 1,
+      "rating": 0.53,
+      "points": 82184,
+      "completedTransactions": 13542
+    }
+  },
+  {
+    "key": 160,
+    "name": "Ebony Terrell",
+    "app_data": {
+      "email": "ebonyterrell@zenthall.com",
+      "phone": "+56 (937) 523-2218"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 8,
+      "rating": 0.88,
+      "points": 27783,
+      "completedTransactions": 92569
+    }
+  },
+  {
+    "key": 161,
+    "name": "Reva Wolf",
+    "app_data": {
+      "email": "revawolf@zenthall.com",
+      "phone": "+56 (908) 552-3654"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 9,
+      "rating": 0.77,
+      "points": 10866,
+      "completedTransactions": 75493
+    }
+  },
+  {
+    "key": 162,
+    "name": "Farrell Ruiz",
+    "app_data": {
+      "email": "farrellruiz@zenthall.com",
+      "phone": "+56 (977) 541-3680"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 3,
+      "rating": 0.29,
+      "points": 78771,
+      "completedTransactions": 79845
+    }
+  },
+  {
+    "key": 163,
+    "name": "Conner Golden",
+    "app_data": {
+      "email": "connergolden@zenthall.com",
+      "phone": "+56 (872) 417-3552"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 1,
+      "rating": 0.16,
+      "points": 12924,
+      "completedTransactions": 90554
+    }
+  },
+  {
+    "key": 164,
+    "name": "Dianna Willis",
+    "app_data": {
+      "email": "diannawillis@zenthall.com",
+      "phone": "+56 (815) 486-3376"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 9,
+      "rating": 0.05,
+      "points": 20074,
+      "completedTransactions": 17659
+    }
+  },
+  {
+    "key": 165,
+    "name": "Shepherd Hart",
+    "app_data": {
+      "email": "shepherdhart@zenthall.com",
+      "phone": "+56 (846) 419-3911"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 5,
+      "rating": 0.51,
+      "points": 49440,
+      "completedTransactions": 3575
+    }
+  },
+  {
+    "key": 166,
+    "name": "Pittman Lambert",
+    "app_data": {
+      "email": "pittmanlambert@zenthall.com",
+      "phone": "+56 (927) 495-3220"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 2,
+      "rating": 0.12,
+      "points": 90260,
+      "completedTransactions": 22271
+    }
+  },
+  {
+    "key": 167,
+    "name": "Foley Burks",
+    "app_data": {
+      "email": "foleyburks@zenthall.com",
+      "phone": "+56 (969) 468-3188"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 0,
+      "rating": 0.13,
+      "points": 16260,
+      "completedTransactions": 62364
+    }
+  },
+  {
+    "key": 168,
+    "name": "Teresa Key",
+    "app_data": {
+      "email": "teresakey@zenthall.com",
+      "phone": "+56 (982) 482-2523"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 0,
+      "rating": 0.93,
+      "points": 79034,
+      "completedTransactions": 17106
+    }
+  },
+  {
+    "key": 169,
+    "name": "Elise Hood",
+    "app_data": {
+      "email": "elisehood@zenthall.com",
+      "phone": "+56 (842) 408-2267"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 0,
+      "rating": 0.41,
+      "points": 20175,
+      "completedTransactions": 7443
+    }
+  },
+  {
+    "key": 170,
+    "name": "Rose Whitfield",
+    "app_data": {
+      "email": "rosewhitfield@zenthall.com",
+      "phone": "+56 (907) 547-2834"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 9,
+      "rating": 0.46,
+      "points": 43716,
+      "completedTransactions": 65253
+    }
+  },
+  {
+    "key": 171,
+    "name": "Huber Kemp",
+    "app_data": {
+      "email": "huberkemp@zenthall.com",
+      "phone": "+56 (802) 505-3912"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 7,
+      "rating": 0,
+      "points": 79099,
+      "completedTransactions": 14581
+    }
+  },
+  {
+    "key": 172,
+    "name": "Bradford Mathews",
+    "app_data": {
+      "email": "bradfordmathews@zenthall.com",
+      "phone": "+56 (877) 462-2571"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 0,
+      "rating": 0.23,
+      "points": 63123,
+      "completedTransactions": 68919
+    }
+  },
+  {
+    "key": 173,
+    "name": "Jana Moore",
+    "app_data": {
+      "email": "janamoore@zenthall.com",
+      "phone": "+56 (916) 524-3754"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 7,
+      "rating": 0.06,
+      "points": 59208,
+      "completedTransactions": 70764
+    }
+  },
+  {
+    "key": 174,
+    "name": "Peggy Cox",
+    "app_data": {
+      "email": "peggycox@zenthall.com",
+      "phone": "+56 (942) 510-3138"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 3,
+      "rating": 0.42,
+      "points": 95536,
+      "completedTransactions": 68275
+    }
+  },
+  {
+    "key": 175,
+    "name": "Elaine Neal",
+    "app_data": {
+      "email": "elaineneal@zenthall.com",
+      "phone": "+56 (982) 437-3176"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 1,
+      "rating": 0.9,
+      "points": 28399,
+      "completedTransactions": 70308
+    }
+  },
+  {
+    "key": 176,
+    "name": "Rivers Espinoza",
+    "app_data": {
+      "email": "riversespinoza@zenthall.com",
+      "phone": "+56 (956) 502-3764"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 7,
+      "rating": 0.98,
+      "points": 46206,
+      "completedTransactions": 62524
+    }
+  },
+  {
+    "key": 177,
+    "name": "Caldwell Paul",
+    "app_data": {
+      "email": "caldwellpaul@zenthall.com",
+      "phone": "+56 (821) 538-3943"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 10,
+      "rating": 0.37,
+      "points": 40566,
+      "completedTransactions": 14699
+    }
+  },
+  {
+    "key": 178,
+    "name": "Padilla Patterson",
+    "app_data": {
+      "email": "padillapatterson@zenthall.com",
+      "phone": "+56 (909) 483-3114"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 0,
+      "rating": 0.34,
+      "points": 5907,
+      "completedTransactions": 55943
+    }
+  },
+  {
+    "key": 179,
+    "name": "Prince Shepherd",
+    "app_data": {
+      "email": "princeshepherd@zenthall.com",
+      "phone": "+56 (846) 420-2713"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 2,
+      "rating": 0.41,
+      "points": 17752,
+      "completedTransactions": 82707
+    }
+  },
+  {
+    "key": 180,
+    "name": "Rena Pope",
+    "app_data": {
+      "email": "renapope@zenthall.com",
+      "phone": "+56 (861) 587-3741"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 3,
+      "rating": 0.03,
+      "points": 67217,
+      "completedTransactions": 23522
+    }
+  },
+  {
+    "key": 181,
+    "name": "Roth Conrad",
+    "app_data": {
+      "email": "rothconrad@zenthall.com",
+      "phone": "+56 (943) 526-2241"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 9,
+      "rating": 0.52,
+      "points": 97479,
+      "completedTransactions": 51236
+    }
+  },
+  {
+    "key": 182,
+    "name": "Eddie Mckinney",
+    "app_data": {
+      "email": "eddiemckinney@zenthall.com",
+      "phone": "+56 (909) 407-3723"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 8,
+      "rating": 0.34,
+      "points": 48426,
+      "completedTransactions": 92251
+    }
+  },
+  {
+    "key": 183,
+    "name": "Blanche Hartman",
+    "app_data": {
+      "email": "blanchehartman@zenthall.com",
+      "phone": "+56 (929) 577-3462"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 6,
+      "rating": 0.77,
+      "points": 84008,
+      "completedTransactions": 92085
+    }
+  },
+  {
+    "key": 184,
+    "name": "Nell Crawford",
+    "app_data": {
+      "email": "nellcrawford@zenthall.com",
+      "phone": "+56 (967) 455-3228"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 0,
+      "rating": 0.28,
+      "points": 21543,
+      "completedTransactions": 52869
+    }
+  },
+  {
+    "key": 185,
+    "name": "Anderson Stephenson",
+    "app_data": {
+      "email": "andersonstephenson@zenthall.com",
+      "phone": "+56 (950) 477-2489"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 3,
+      "rating": 0.45,
+      "points": 53942,
+      "completedTransactions": 5008
+    }
+  },
+  {
+    "key": 186,
+    "name": "Sherrie Merritt",
+    "app_data": {
+      "email": "sherriemerritt@zenthall.com",
+      "phone": "+56 (962) 504-3983"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 6,
+      "rating": 0.65,
+      "points": 31667,
+      "completedTransactions": 48877
+    }
+  },
+  {
+    "key": 187,
+    "name": "Harper Combs",
+    "app_data": {
+      "email": "harpercombs@zenthall.com",
+      "phone": "+56 (921) 583-3810"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 6,
+      "rating": 0.53,
+      "points": 19981,
+      "completedTransactions": 53634
+    }
+  },
+  {
+    "key": 188,
+    "name": "Tessa Richard",
+    "app_data": {
+      "email": "tessarichard@zenthall.com",
+      "phone": "+56 (817) 447-3023"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 5,
+      "rating": 0.3,
+      "points": 92136,
+      "completedTransactions": 10729
+    }
+  },
+  {
+    "key": 189,
+    "name": "Mckenzie Baker",
+    "app_data": {
+      "email": "mckenziebaker@zenthall.com",
+      "phone": "+56 (838) 526-3554"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 10,
+      "rating": 0.27,
+      "points": 91291,
+      "completedTransactions": 94227
+    }
+  },
+  {
+    "key": 190,
+    "name": "Nettie Stephens",
+    "app_data": {
+      "email": "nettiestephens@zenthall.com",
+      "phone": "+56 (806) 413-2932"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 4,
+      "rating": 0.28,
+      "points": 53148,
+      "completedTransactions": 18430
+    }
+  },
+  {
+    "key": 191,
+    "name": "Lindsey Sweeney",
+    "app_data": {
+      "email": "lindseysweeney@zenthall.com",
+      "phone": "+56 (983) 534-3036"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 6,
+      "rating": 0.55,
+      "points": 25991,
+      "completedTransactions": 65470
+    }
+  },
+  {
+    "key": 192,
+    "name": "Trujillo Silva",
+    "app_data": {
+      "email": "trujillosilva@zenthall.com",
+      "phone": "+56 (976) 494-2189"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 6,
+      "rating": 0.64,
+      "points": 48120,
+      "completedTransactions": 99927
+    }
+  },
+  {
+    "key": 193,
+    "name": "Mathis Kim",
+    "app_data": {
+      "email": "mathiskim@zenthall.com",
+      "phone": "+56 (943) 443-3171"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 2,
+      "rating": 0.76,
+      "points": 38257,
+      "completedTransactions": 87150
+    }
+  },
+  {
+    "key": 194,
+    "name": "Grimes Shaffer",
+    "app_data": {
+      "email": "grimesshaffer@zenthall.com",
+      "phone": "+56 (823) 490-2020"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 9,
+      "rating": 0.51,
+      "points": 51774,
+      "completedTransactions": 80705
+    }
+  },
+  {
+    "key": 195,
+    "name": "Phillips Price",
+    "app_data": {
+      "email": "phillipsprice@zenthall.com",
+      "phone": "+56 (868) 525-3974"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 10,
+      "rating": 0.56,
+      "points": 90399,
+      "completedTransactions": 57172
+    }
+  },
+  {
+    "key": 196,
+    "name": "Shauna Stafford",
+    "app_data": {
+      "email": "shaunastafford@zenthall.com",
+      "phone": "+56 (861) 531-3108"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 0,
+      "rating": 0.98,
+      "points": 35419,
+      "completedTransactions": 86183
+    }
+  },
+  {
+    "key": 197,
+    "name": "Hinton Nixon",
+    "app_data": {
+      "email": "hintonnixon@zenthall.com",
+      "phone": "+56 (831) 488-3783"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 8,
+      "rating": 0.05,
+      "points": 27075,
+      "completedTransactions": 41237
+    }
+  },
+  {
+    "key": 198,
+    "name": "Kaitlin Dale",
+    "app_data": {
+      "email": "kaitlindale@zenthall.com",
+      "phone": "+56 (812) 406-3187"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 4,
+      "rating": 0.13,
+      "points": 25760,
+      "completedTransactions": 31708
+    }
+  },
+  {
+    "key": 199,
+    "name": "Kara Daniel",
+    "app_data": {
+      "email": "karadaniel@zenthall.com",
+      "phone": "+56 (922) 414-2209"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 2,
+      "rating": 0.42,
+      "points": 8899,
+      "completedTransactions": 10353
+    }
+  },
+  {
+    "key": 200,
+    "name": "Estella Dunn",
+    "app_data": {
+      "email": "estelladunn@zenthall.com",
+      "phone": "+56 (986) 468-2510"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 8,
+      "rating": 0.16,
+      "points": 5456,
+      "completedTransactions": 54514
+    }
+  },
+  {
+    "key": 201,
+    "name": "Carly Yang",
+    "app_data": {
+      "email": "carlyyang@zenthall.com",
+      "phone": "+56 (971) 401-2190"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 2,
+      "rating": 0.57,
+      "points": 38462,
+      "completedTransactions": 70501
+    }
+  },
+  {
+    "key": 202,
+    "name": "Sims Griffith",
+    "app_data": {
+      "email": "simsgriffith@zenthall.com",
+      "phone": "+56 (958) 525-3876"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 0,
+      "rating": 0.54,
+      "points": 41755,
+      "completedTransactions": 71274
+    }
+  },
+  {
+    "key": 203,
+    "name": "Romero Mccall",
+    "app_data": {
+      "email": "romeromccall@zenthall.com",
+      "phone": "+56 (918) 443-2132"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 5,
+      "rating": 0.62,
+      "points": 29308,
+      "completedTransactions": 69036
+    }
+  },
+  {
+    "key": 204,
+    "name": "Long Armstrong",
+    "app_data": {
+      "email": "longarmstrong@zenthall.com",
+      "phone": "+56 (869) 480-3281"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 6,
+      "rating": 0.63,
+      "points": 35940,
+      "completedTransactions": 22072
+    }
+  },
+  {
+    "key": 205,
+    "name": "Stokes Manning",
+    "app_data": {
+      "email": "stokesmanning@zenthall.com",
+      "phone": "+56 (983) 589-2570"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 9,
+      "rating": 0.13,
+      "points": 28142,
+      "completedTransactions": 12445
+    }
+  },
+  {
+    "key": 206,
+    "name": "Mercer Mann",
+    "app_data": {
+      "email": "mercermann@zenthall.com",
+      "phone": "+56 (850) 586-2268"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 9,
+      "rating": 0.02,
+      "points": 46164,
+      "completedTransactions": 99130
+    }
+  },
+  {
+    "key": 207,
+    "name": "Hoffman Cortez",
+    "app_data": {
+      "email": "hoffmancortez@zenthall.com",
+      "phone": "+56 (844) 518-3704"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 0,
+      "rating": 0.2,
+      "points": 84042,
+      "completedTransactions": 87798
+    }
+  },
+  {
+    "key": 208,
+    "name": "Burns Bartlett",
+    "app_data": {
+      "email": "burnsbartlett@zenthall.com",
+      "phone": "+56 (971) 440-2601"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 2,
+      "rating": 0.87,
+      "points": 82898,
+      "completedTransactions": 57038
+    }
+  },
+  {
+    "key": 209,
+    "name": "Maribel Frank",
+    "app_data": {
+      "email": "maribelfrank@zenthall.com",
+      "phone": "+56 (819) 414-2899"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 6,
+      "rating": 0.3,
+      "points": 82032,
+      "completedTransactions": 59832
+    }
+  },
+  {
+    "key": 210,
+    "name": "Boyer Frazier",
+    "app_data": {
+      "email": "boyerfrazier@zenthall.com",
+      "phone": "+56 (974) 521-3235"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 2,
+      "rating": 0.64,
+      "points": 67758,
+      "completedTransactions": 55322
+    }
+  },
+  {
+    "key": 211,
+    "name": "Ashley Mccray",
+    "app_data": {
+      "email": "ashleymccray@zenthall.com",
+      "phone": "+56 (924) 460-3446"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 10,
+      "rating": 0.84,
+      "points": 28080,
+      "completedTransactions": 54756
+    }
+  },
+  {
+    "key": 212,
+    "name": "Berger Christian",
+    "app_data": {
+      "email": "bergerchristian@zenthall.com",
+      "phone": "+56 (961) 573-2594"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 3,
+      "rating": 0,
+      "points": 73789,
+      "completedTransactions": 52822
+    }
+  },
+  {
+    "key": 213,
+    "name": "Newton Fletcher",
+    "app_data": {
+      "email": "newtonfletcher@zenthall.com",
+      "phone": "+56 (975) 447-2762"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 6,
+      "rating": 0.22,
+      "points": 38711,
+      "completedTransactions": 44839
+    }
+  },
+  {
+    "key": 214,
+    "name": "Yolanda Becker",
+    "app_data": {
+      "email": "yolandabecker@zenthall.com",
+      "phone": "+56 (878) 524-3453"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 9,
+      "rating": 0.16,
+      "points": 10929,
+      "completedTransactions": 84979
+    }
+  },
+  {
+    "key": 215,
+    "name": "Good Booth",
+    "app_data": {
+      "email": "goodbooth@zenthall.com",
+      "phone": "+56 (806) 479-3171"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 8,
+      "rating": 0.32,
+      "points": 35955,
+      "completedTransactions": 64975
+    }
+  },
+  {
+    "key": 216,
+    "name": "Jill Holden",
+    "app_data": {
+      "email": "jillholden@zenthall.com",
+      "phone": "+56 (950) 544-2931"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 2,
+      "rating": 0.88,
+      "points": 56867,
+      "completedTransactions": 87385
+    }
+  },
+  {
+    "key": 217,
+    "name": "Alston Caldwell",
+    "app_data": {
+      "email": "alstoncaldwell@zenthall.com",
+      "phone": "+56 (867) 528-3708"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 5,
+      "rating": 0.93,
+      "points": 72783,
+      "completedTransactions": 36703
+    }
+  },
+  {
+    "key": 218,
+    "name": "Keith King",
+    "app_data": {
+      "email": "keithking@zenthall.com",
+      "phone": "+56 (990) 467-2175"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 0,
+      "rating": 0.06,
+      "points": 18435,
+      "completedTransactions": 13021
+    }
+  },
+  {
+    "key": 219,
+    "name": "Caroline Romero",
+    "app_data": {
+      "email": "carolineromero@zenthall.com",
+      "phone": "+56 (887) 536-3720"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 4,
+      "rating": 0.33,
+      "points": 38756,
+      "completedTransactions": 19180
+    }
+  },
+  {
+    "key": 220,
+    "name": "Sarah Mckenzie",
+    "app_data": {
+      "email": "sarahmckenzie@zenthall.com",
+      "phone": "+56 (948) 519-3227"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 7,
+      "rating": 0.07,
+      "points": 15937,
+      "completedTransactions": 65886
+    }
+  },
+  {
+    "key": 221,
+    "name": "Rochelle Thomas",
+    "app_data": {
+      "email": "rochellethomas@zenthall.com",
+      "phone": "+56 (884) 427-2784"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 7,
+      "rating": 0.69,
+      "points": 26321,
+      "completedTransactions": 3713
+    }
+  },
+  {
+    "key": 222,
+    "name": "Everett Petersen",
+    "app_data": {
+      "email": "everettpetersen@zenthall.com",
+      "phone": "+56 (937) 465-3073"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 4,
+      "rating": 0.88,
+      "points": 12616,
+      "completedTransactions": 41762
+    }
+  },
+  {
+    "key": 223,
+    "name": "Mcbride Dalton",
+    "app_data": {
+      "email": "mcbridedalton@zenthall.com",
+      "phone": "+56 (926) 562-3525"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 3,
+      "rating": 0.41,
+      "points": 69186,
+      "completedTransactions": 58962
+    }
+  },
+  {
+    "key": 224,
+    "name": "Nichols Albert",
+    "app_data": {
+      "email": "nicholsalbert@zenthall.com",
+      "phone": "+56 (927) 533-3113"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 0,
+      "rating": 0.74,
+      "points": 99470,
+      "completedTransactions": 19845
+    }
+  },
+  {
+    "key": 225,
+    "name": "Araceli Kennedy",
+    "app_data": {
+      "email": "aracelikennedy@zenthall.com",
+      "phone": "+56 (985) 548-2852"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 1,
+      "rating": 0.17,
+      "points": 20604,
+      "completedTransactions": 28627
+    }
+  },
+  {
+    "key": 226,
+    "name": "Frye Deleon",
+    "app_data": {
+      "email": "fryedeleon@zenthall.com",
+      "phone": "+56 (950) 514-2851"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 1,
+      "rating": 0.97,
+      "points": 68443,
+      "completedTransactions": 53803
+    }
+  },
+  {
+    "key": 227,
+    "name": "Petra Banks",
+    "app_data": {
+      "email": "petrabanks@zenthall.com",
+      "phone": "+56 (863) 510-3320"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 6,
+      "rating": 0.55,
+      "points": 28196,
+      "completedTransactions": 43157
+    }
+  },
+  {
+    "key": 228,
+    "name": "Macias Riley",
+    "app_data": {
+      "email": "maciasriley@zenthall.com",
+      "phone": "+56 (988) 596-2209"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 10,
+      "rating": 0.1,
+      "points": 51213,
+      "completedTransactions": 86038
+    }
+  },
+  {
+    "key": 229,
+    "name": "Griffin Hudson",
+    "app_data": {
+      "email": "griffinhudson@zenthall.com",
+      "phone": "+56 (928) 409-2377"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 2,
+      "rating": 0.38,
+      "points": 86354,
+      "completedTransactions": 95502
+    }
+  },
+  {
+    "key": 230,
+    "name": "Humphrey Copeland",
+    "app_data": {
+      "email": "humphreycopeland@zenthall.com",
+      "phone": "+56 (992) 456-2399"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 8,
+      "rating": 0.11,
+      "points": 8773,
+      "completedTransactions": 71991
+    }
+  },
+  {
+    "key": 231,
+    "name": "Berta Coleman",
+    "app_data": {
+      "email": "bertacoleman@zenthall.com",
+      "phone": "+56 (968) 478-3980"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 7,
+      "rating": 0.41,
+      "points": 18086,
+      "completedTransactions": 35243
+    }
+  },
+  {
+    "key": 232,
+    "name": "Riddle Bird",
+    "app_data": {
+      "email": "riddlebird@zenthall.com",
+      "phone": "+56 (958) 593-3817"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 3,
+      "rating": 0.52,
+      "points": 46454,
+      "completedTransactions": 75396
+    }
+  },
+  {
+    "key": 233,
+    "name": "Glenda Chase",
+    "app_data": {
+      "email": "glendachase@zenthall.com",
+      "phone": "+56 (854) 462-3484"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 10,
+      "rating": 0.56,
+      "points": 73641,
+      "completedTransactions": 18018
+    }
+  },
+  {
+    "key": 234,
+    "name": "Aisha Ortiz",
+    "app_data": {
+      "email": "aishaortiz@zenthall.com",
+      "phone": "+56 (870) 450-2733"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 9,
+      "rating": 0.2,
+      "points": 85007,
+      "completedTransactions": 60462
+    }
+  },
+  {
+    "key": 235,
+    "name": "Sharlene Black",
+    "app_data": {
+      "email": "sharleneblack@zenthall.com",
+      "phone": "+56 (924) 459-2281"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 0,
+      "rating": 0.54,
+      "points": 25440,
+      "completedTransactions": 9350
+    }
+  },
+  {
+    "key": 236,
+    "name": "Monique Forbes",
+    "app_data": {
+      "email": "moniqueforbes@zenthall.com",
+      "phone": "+56 (937) 423-3245"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 1,
+      "rating": 0.43,
+      "points": 48843,
+      "completedTransactions": 8038
+    }
+  },
+  {
+    "key": 237,
+    "name": "Bird Odonnell",
+    "app_data": {
+      "email": "birdodonnell@zenthall.com",
+      "phone": "+56 (971) 548-2084"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 2,
+      "rating": 0.77,
+      "points": 93215,
+      "completedTransactions": 31158
+    }
+  },
+  {
+    "key": 238,
+    "name": "Johnson Wood",
+    "app_data": {
+      "email": "johnsonwood@zenthall.com",
+      "phone": "+56 (807) 411-3486"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 10,
+      "rating": 0.97,
+      "points": 74822,
+      "completedTransactions": 98972
+    }
+  },
+  {
+    "key": 239,
+    "name": "Sara Wilkerson",
+    "app_data": {
+      "email": "sarawilkerson@zenthall.com",
+      "phone": "+56 (907) 456-2268"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 6,
+      "rating": 0.7,
+      "points": 34627,
+      "completedTransactions": 28429
+    }
+  },
+  {
+    "key": 240,
+    "name": "Ernestine Franco",
+    "app_data": {
+      "email": "ernestinefranco@zenthall.com",
+      "phone": "+56 (939) 514-2426"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 1,
+      "rating": 0.48,
+      "points": 85011,
+      "completedTransactions": 77900
+    }
+  },
+  {
+    "key": 241,
+    "name": "Vazquez Richards",
+    "app_data": {
+      "email": "vazquezrichards@zenthall.com",
+      "phone": "+56 (899) 447-2054"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 0,
+      "rating": 0.23,
+      "points": 91676,
+      "completedTransactions": 82364
+    }
+  },
+  {
+    "key": 242,
+    "name": "Angeline Alvarez",
+    "app_data": {
+      "email": "angelinealvarez@zenthall.com",
+      "phone": "+56 (806) 508-2778"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 3,
+      "rating": 0.06,
+      "points": 47990,
+      "completedTransactions": 94365
+    }
+  },
+  {
+    "key": 243,
+    "name": "Yang Grant",
+    "app_data": {
+      "email": "yanggrant@zenthall.com",
+      "phone": "+56 (816) 535-2409"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 0,
+      "rating": 0.8,
+      "points": 19763,
+      "completedTransactions": 81894
+    }
+  },
+  {
+    "key": 244,
+    "name": "Cornelia Morgan",
+    "app_data": {
+      "email": "corneliamorgan@zenthall.com",
+      "phone": "+56 (947) 506-2085"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 10,
+      "rating": 0.79,
+      "points": 2872,
+      "completedTransactions": 79993
+    }
+  },
+  {
+    "key": 245,
+    "name": "Rich Holloway",
+    "app_data": {
+      "email": "richholloway@zenthall.com",
+      "phone": "+56 (983) 411-2656"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 7,
+      "rating": 0.33,
+      "points": 21955,
+      "completedTransactions": 84743
+    }
+  },
+  {
+    "key": 246,
+    "name": "Cora Kinney",
+    "app_data": {
+      "email": "corakinney@zenthall.com",
+      "phone": "+56 (942) 571-3703"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 0,
+      "rating": 0.96,
+      "points": 85903,
+      "completedTransactions": 8599
+    }
+  },
+  {
+    "key": 247,
+    "name": "Garza Hutchinson",
+    "app_data": {
+      "email": "garzahutchinson@zenthall.com",
+      "phone": "+56 (808) 593-2470"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 2,
+      "rating": 0.87,
+      "points": 56390,
+      "completedTransactions": 73863
+    }
+  },
+  {
+    "key": 248,
+    "name": "Serena Best",
+    "app_data": {
+      "email": "serenabest@zenthall.com",
+      "phone": "+56 (948) 574-2485"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 0,
+      "rating": 0.13,
+      "points": 69880,
+      "completedTransactions": 94817
+    }
+  },
+  {
+    "key": 249,
+    "name": "Terra Glass",
+    "app_data": {
+      "email": "terraglass@zenthall.com",
+      "phone": "+56 (904) 540-2409"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 6,
+      "rating": 0.38,
+      "points": 50253,
+      "completedTransactions": 65135
+    }
+  },
+  {
+    "key": 250,
+    "name": "Cherry Morin",
+    "app_data": {
+      "email": "cherrymorin@zenthall.com",
+      "phone": "+56 (815) 492-2784"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 8,
+      "rating": 0.34,
+      "points": 42386,
+      "completedTransactions": 59576
+    }
+  },
+  {
+    "key": 251,
+    "name": "Kitty Bright",
+    "app_data": {
+      "email": "kittybright@zenthall.com",
+      "phone": "+56 (956) 563-2529"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 0,
+      "rating": 0.15,
+      "points": 26681,
+      "completedTransactions": 71630
+    }
+  },
+  {
+    "key": 252,
+    "name": "Lara Contreras",
+    "app_data": {
+      "email": "laracontreras@zenthall.com",
+      "phone": "+56 (883) 472-2125"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 8,
+      "rating": 0.46,
+      "points": 44216,
+      "completedTransactions": 72892
+    }
+  },
+  {
+    "key": 253,
+    "name": "Linda Serrano",
+    "app_data": {
+      "email": "lindaserrano@zenthall.com",
+      "phone": "+56 (803) 454-2666"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 2,
+      "rating": 0.55,
+      "points": 22295,
+      "completedTransactions": 26490
+    }
+  },
+  {
+    "key": 254,
+    "name": "Collins Rojas",
+    "app_data": {
+      "email": "collinsrojas@zenthall.com",
+      "phone": "+56 (865) 444-2722"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 4,
+      "rating": 0.87,
+      "points": 84885,
+      "completedTransactions": 46800
+    }
+  },
+  {
+    "key": 255,
+    "name": "Calhoun Foreman",
+    "app_data": {
+      "email": "calhounforeman@zenthall.com",
+      "phone": "+56 (866) 588-3697"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 1,
+      "rating": 0.22,
+      "points": 47128,
+      "completedTransactions": 38058
+    }
+  },
+  {
+    "key": 256,
+    "name": "Deann Hebert",
+    "app_data": {
+      "email": "deannhebert@zenthall.com",
+      "phone": "+56 (938) 551-2926"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 6,
+      "rating": 0.42,
+      "points": 90469,
+      "completedTransactions": 46017
+    }
+  },
+  {
+    "key": 257,
+    "name": "Deborah Drake",
+    "app_data": {
+      "email": "deborahdrake@zenthall.com",
+      "phone": "+56 (868) 426-3777"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 10,
+      "rating": 0.74,
+      "points": 41541,
+      "completedTransactions": 48721
+    }
+  },
+  {
+    "key": 258,
+    "name": "Christian Rivers",
+    "app_data": {
+      "email": "christianrivers@zenthall.com",
+      "phone": "+56 (987) 492-2215"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 4,
+      "rating": 0.54,
+      "points": 82557,
+      "completedTransactions": 8920
+    }
+  },
+  {
+    "key": 259,
+    "name": "Russo Sellers",
+    "app_data": {
+      "email": "russosellers@zenthall.com",
+      "phone": "+56 (918) 412-2574"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 0,
+      "rating": 0.16,
+      "points": 26835,
+      "completedTransactions": 29343
+    }
+  },
+  {
+    "key": 260,
+    "name": "Blankenship Burnett",
+    "app_data": {
+      "email": "blankenshipburnett@zenthall.com",
+      "phone": "+56 (870) 505-2115"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 0,
+      "rating": 0.94,
+      "points": 48954,
+      "completedTransactions": 65348
+    }
+  },
+  {
+    "key": 261,
+    "name": "Ursula Fernandez",
+    "app_data": {
+      "email": "ursulafernandez@zenthall.com",
+      "phone": "+56 (964) 494-2368"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 6,
+      "rating": 0.44,
+      "points": 49231,
+      "completedTransactions": 9049
+    }
+  },
+  {
+    "key": 262,
+    "name": "Lina Aguilar",
+    "app_data": {
+      "email": "linaaguilar@zenthall.com",
+      "phone": "+56 (855) 553-3529"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 3,
+      "rating": 0.69,
+      "points": 13618,
+      "completedTransactions": 25320
+    }
+  },
+  {
+    "key": 263,
+    "name": "Becker Pittman",
+    "app_data": {
+      "email": "beckerpittman@zenthall.com",
+      "phone": "+56 (969) 529-2345"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 5,
+      "rating": 0.44,
+      "points": 17692,
+      "completedTransactions": 28517
+    }
+  },
+  {
+    "key": 264,
+    "name": "Danielle Mckee",
+    "app_data": {
+      "email": "daniellemckee@zenthall.com",
+      "phone": "+56 (964) 571-2623"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 6,
+      "rating": 0.24,
+      "points": 30120,
+      "completedTransactions": 61619
+    }
+  },
+  {
+    "key": 265,
+    "name": "Neva Britt",
+    "app_data": {
+      "email": "nevabritt@zenthall.com",
+      "phone": "+56 (923) 500-2485"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 3,
+      "rating": 0.79,
+      "points": 67954,
+      "completedTransactions": 62817
+    }
+  },
+  {
+    "key": 266,
+    "name": "Leon James",
+    "app_data": {
+      "email": "leonjames@zenthall.com",
+      "phone": "+56 (897) 415-3691"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 5,
+      "rating": 0.99,
+      "points": 30553,
+      "completedTransactions": 10976
+    }
+  },
+  {
+    "key": 267,
+    "name": "Craft Levine",
+    "app_data": {
+      "email": "craftlevine@zenthall.com",
+      "phone": "+56 (954) 531-2732"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 6,
+      "rating": 0.05,
+      "points": 11266,
+      "completedTransactions": 37390
+    }
+  },
+  {
+    "key": 268,
+    "name": "Dixon Potter",
+    "app_data": {
+      "email": "dixonpotter@zenthall.com",
+      "phone": "+56 (949) 555-2700"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 9,
+      "rating": 0.32,
+      "points": 71733,
+      "completedTransactions": 21738
+    }
+  },
+  {
+    "key": 269,
+    "name": "Knapp Sparks",
+    "app_data": {
+      "email": "knappsparks@zenthall.com",
+      "phone": "+56 (842) 558-3362"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 0,
+      "rating": 0.24,
+      "points": 39671,
+      "completedTransactions": 43010
+    }
+  },
+  {
+    "key": 270,
+    "name": "Rowland Hopper",
+    "app_data": {
+      "email": "rowlandhopper@zenthall.com",
+      "phone": "+56 (801) 560-3821"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 1,
+      "rating": 0.63,
+      "points": 42131,
+      "completedTransactions": 17070
+    }
+  },
+  {
+    "key": 271,
+    "name": "Dodson Burton",
+    "app_data": {
+      "email": "dodsonburton@zenthall.com",
+      "phone": "+56 (989) 460-2949"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 7,
+      "rating": 0.02,
+      "points": 73172,
+      "completedTransactions": 38348
+    }
+  },
+  {
+    "key": 272,
+    "name": "Augusta Cash",
+    "app_data": {
+      "email": "augustacash@zenthall.com",
+      "phone": "+56 (955) 501-2848"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 7,
+      "rating": 0.09,
+      "points": 75824,
+      "completedTransactions": 25950
+    }
+  },
+  {
+    "key": 273,
+    "name": "Terrie Hammond",
+    "app_data": {
+      "email": "terriehammond@zenthall.com",
+      "phone": "+56 (885) 517-3069"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 7,
+      "rating": 0.6,
+      "points": 74625,
+      "completedTransactions": 46576
+    }
+  },
+  {
+    "key": 274,
+    "name": "Kemp Boyle",
+    "app_data": {
+      "email": "kempboyle@zenthall.com",
+      "phone": "+56 (844) 471-3374"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 9,
+      "rating": 0.27,
+      "points": 61033,
+      "completedTransactions": 86657
+    }
+  },
+  {
+    "key": 275,
+    "name": "Jones Morton",
+    "app_data": {
+      "email": "jonesmorton@zenthall.com",
+      "phone": "+56 (890) 560-3768"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 3,
+      "rating": 0.91,
+      "points": 53866,
+      "completedTransactions": 95086
+    }
+  },
+  {
+    "key": 276,
+    "name": "Brenda Dixon",
+    "app_data": {
+      "email": "brendadixon@zenthall.com",
+      "phone": "+56 (811) 583-2800"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 9,
+      "rating": 0.47,
+      "points": 16246,
+      "completedTransactions": 25214
+    }
+  },
+  {
+    "key": 277,
+    "name": "Waters Fitzgerald",
+    "app_data": {
+      "email": "watersfitzgerald@zenthall.com",
+      "phone": "+56 (932) 531-2189"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 1,
+      "rating": 0.07,
+      "points": 57122,
+      "completedTransactions": 86946
+    }
+  },
+  {
+    "key": 278,
+    "name": "Carson Dennis",
+    "app_data": {
+      "email": "carsondennis@zenthall.com",
+      "phone": "+56 (807) 540-3654"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 7,
+      "rating": 0.78,
+      "points": 1914,
+      "completedTransactions": 30268
+    }
+  },
+  {
+    "key": 279,
+    "name": "Duffy Cochran",
+    "app_data": {
+      "email": "duffycochran@zenthall.com",
+      "phone": "+56 (933) 435-2190"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 9,
+      "rating": 0.65,
+      "points": 3994,
+      "completedTransactions": 88572
+    }
+  },
+  {
+    "key": 280,
+    "name": "Rebecca Alston",
+    "app_data": {
+      "email": "rebeccaalston@zenthall.com",
+      "phone": "+56 (844) 512-3236"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 7,
+      "rating": 0.75,
+      "points": 7416,
+      "completedTransactions": 92990
+    }
+  },
+  {
+    "key": 281,
+    "name": "Johanna Sampson",
+    "app_data": {
+      "email": "johannasampson@zenthall.com",
+      "phone": "+56 (827) 466-2266"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 5,
+      "rating": 0.11,
+      "points": 48784,
+      "completedTransactions": 1350
+    }
+  },
+  {
+    "key": 282,
+    "name": "Green Nicholson",
+    "app_data": {
+      "email": "greennicholson@zenthall.com",
+      "phone": "+56 (919) 475-3575"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 3,
+      "rating": 0.03,
+      "points": 10026,
+      "completedTransactions": 91231
+    }
+  },
+  {
+    "key": 283,
+    "name": "Therese Rasmussen",
+    "app_data": {
+      "email": "thereserasmussen@zenthall.com",
+      "phone": "+56 (936) 506-3295"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 9,
+      "rating": 0.73,
+      "points": 49046,
+      "completedTransactions": 80819
+    }
+  },
+  {
+    "key": 284,
+    "name": "Simone Perez",
+    "app_data": {
+      "email": "simoneperez@zenthall.com",
+      "phone": "+56 (918) 548-2819"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 1,
+      "rating": 0.64,
+      "points": 63754,
+      "completedTransactions": 70081
+    }
+  },
+  {
+    "key": 285,
+    "name": "Vicki Christensen",
+    "app_data": {
+      "email": "vickichristensen@zenthall.com",
+      "phone": "+56 (879) 595-2585"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 3,
+      "rating": 0.92,
+      "points": 67911,
+      "completedTransactions": 47126
+    }
+  },
+  {
+    "key": 286,
+    "name": "Blevins Ochoa",
+    "app_data": {
+      "email": "blevinsochoa@zenthall.com",
+      "phone": "+56 (873) 432-3092"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 5,
+      "rating": 0.37,
+      "points": 58151,
+      "completedTransactions": 96496
+    }
+  },
+  {
+    "key": 287,
+    "name": "Erika Williams",
+    "app_data": {
+      "email": "erikawilliams@zenthall.com",
+      "phone": "+56 (850) 557-3225"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 3,
+      "rating": 0.19,
+      "points": 42743,
+      "completedTransactions": 77532
+    }
+  },
+  {
+    "key": 288,
+    "name": "Wheeler Ford",
+    "app_data": {
+      "email": "wheelerford@zenthall.com",
+      "phone": "+56 (833) 478-2651"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 4,
+      "rating": 0.12,
+      "points": 54158,
+      "completedTransactions": 46813
+    }
+  },
+  {
+    "key": 289,
+    "name": "Olga Huffman",
+    "app_data": {
+      "email": "olgahuffman@zenthall.com",
+      "phone": "+56 (851) 550-2367"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 5,
+      "rating": 0.21,
+      "points": 86785,
+      "completedTransactions": 33548
+    }
+  },
+  {
+    "key": 290,
+    "name": "Kathy Sanders",
+    "app_data": {
+      "email": "kathysanders@zenthall.com",
+      "phone": "+56 (926) 491-3813"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 4,
+      "rating": 0.14,
+      "points": 10456,
+      "completedTransactions": 86254
+    }
+  },
+  {
+    "key": 291,
+    "name": "Bradley Kline",
+    "app_data": {
+      "email": "bradleykline@zenthall.com",
+      "phone": "+56 (811) 527-2744"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 3,
+      "rating": 0.21,
+      "points": 81747,
+      "completedTransactions": 70705
+    }
+  },
+  {
+    "key": 292,
+    "name": "Bishop Park",
+    "app_data": {
+      "email": "bishoppark@zenthall.com",
+      "phone": "+56 (837) 422-2286"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 6,
+      "rating": 0.89,
+      "points": 78748,
+      "completedTransactions": 5041
+    }
+  },
+  {
+    "key": 293,
+    "name": "Wilkerson Case",
+    "app_data": {
+      "email": "wilkersoncase@zenthall.com",
+      "phone": "+56 (879) 439-2712"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 1,
+      "rating": 0.57,
+      "points": 26391,
+      "completedTransactions": 94246
+    }
+  },
+  {
+    "key": 294,
+    "name": "Brandie Mcintyre",
+    "app_data": {
+      "email": "brandiemcintyre@zenthall.com",
+      "phone": "+56 (918) 586-2045"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 6,
+      "rating": 0.16,
+      "points": 73251,
+      "completedTransactions": 7074
+    }
+  },
+  {
+    "key": 295,
+    "name": "Conway Gallegos",
+    "app_data": {
+      "email": "conwaygallegos@zenthall.com",
+      "phone": "+56 (872) 417-2894"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 7,
+      "rating": 0.9,
+      "points": 49603,
+      "completedTransactions": 28776
+    }
+  },
+  {
+    "key": 296,
+    "name": "Kathryn Love",
+    "app_data": {
+      "email": "kathrynlove@zenthall.com",
+      "phone": "+56 (902) 432-3431"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 2,
+      "rating": 0.15,
+      "points": 71672,
+      "completedTransactions": 93402
+    }
+  },
+  {
+    "key": 297,
+    "name": "Cathryn Shields",
+    "app_data": {
+      "email": "cathrynshields@zenthall.com",
+      "phone": "+56 (990) 459-3404"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 10,
+      "rating": 0.7,
+      "points": 58798,
+      "completedTransactions": 72738
+    }
+  },
+  {
+    "key": 298,
+    "name": "Concepcion Rosales",
+    "app_data": {
+      "email": "concepcionrosales@zenthall.com",
+      "phone": "+56 (803) 488-2774"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 1,
+      "rating": 0.73,
+      "points": 56653,
+      "completedTransactions": 17581
+    }
+  },
+  {
+    "key": 299,
+    "name": "Holly Conway",
+    "app_data": {
+      "email": "hollyconway@zenthall.com",
+      "phone": "+56 (909) 535-2150"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 7,
+      "rating": 0.64,
+      "points": 50413,
+      "completedTransactions": 80524
+    }
+  },
+  {
+    "key": 300,
+    "name": "Rosetta Robinson",
+    "app_data": {
+      "email": "rosettarobinson@zenthall.com",
+      "phone": "+56 (901) 552-2058"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 7,
+      "rating": 0.24,
+      "points": 48432,
+      "completedTransactions": 76363
+    }
+  },
+  {
+    "key": 301,
+    "name": "Pearlie Dominguez",
+    "app_data": {
+      "email": "pearliedominguez@zenthall.com",
+      "phone": "+56 (833) 480-3705"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 0,
+      "rating": 0.75,
+      "points": 54185,
+      "completedTransactions": 93882
+    }
+  },
+  {
+    "key": 302,
+    "name": "Howe Hoover",
+    "app_data": {
+      "email": "howehoover@zenthall.com",
+      "phone": "+56 (992) 473-3908"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 6,
+      "rating": 0.07,
+      "points": 69409,
+      "completedTransactions": 75419
+    }
+  },
+  {
+    "key": 303,
+    "name": "Claudette Berger",
+    "app_data": {
+      "email": "claudetteberger@zenthall.com",
+      "phone": "+56 (906) 410-3661"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 9,
+      "rating": 0.84,
+      "points": 84014,
+      "completedTransactions": 79043
+    }
+  },
+  {
+    "key": 304,
+    "name": "Banks Graves",
+    "app_data": {
+      "email": "banksgraves@zenthall.com",
+      "phone": "+56 (920) 527-2755"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 7,
+      "rating": 0.2,
+      "points": 63947,
+      "completedTransactions": 57560
+    }
+  },
+  {
+    "key": 305,
+    "name": "Janet Mays",
+    "app_data": {
+      "email": "janetmays@zenthall.com",
+      "phone": "+56 (898) 597-3338"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 6,
+      "rating": 0.14,
+      "points": 31535,
+      "completedTransactions": 61008
+    }
+  },
+  {
+    "key": 306,
+    "name": "Adeline Mathis",
+    "app_data": {
+      "email": "adelinemathis@zenthall.com",
+      "phone": "+56 (904) 530-2224"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 6,
+      "rating": 0.33,
+      "points": 36318,
+      "completedTransactions": 8363
+    }
+  },
+  {
+    "key": 307,
+    "name": "Mitzi Calhoun",
+    "app_data": {
+      "email": "mitzicalhoun@zenthall.com",
+      "phone": "+56 (913) 435-2736"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 4,
+      "rating": 0.88,
+      "points": 19120,
+      "completedTransactions": 23531
+    }
+  },
+  {
+    "key": 308,
+    "name": "Clements Beard",
+    "app_data": {
+      "email": "clementsbeard@zenthall.com",
+      "phone": "+56 (867) 424-2821"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 7,
+      "rating": 0.67,
+      "points": 24440,
+      "completedTransactions": 14998
+    }
+  },
+  {
+    "key": 309,
+    "name": "Mcfarland Delgado",
+    "app_data": {
+      "email": "mcfarlanddelgado@zenthall.com",
+      "phone": "+56 (839) 521-2110"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 10,
+      "rating": 0.31,
+      "points": 15690,
+      "completedTransactions": 93258
+    }
+  },
+  {
+    "key": 310,
+    "name": "Alexis Mayer",
+    "app_data": {
+      "email": "alexismayer@zenthall.com",
+      "phone": "+56 (952) 579-3893"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 7,
+      "rating": 0.57,
+      "points": 59505,
+      "completedTransactions": 73069
+    }
+  },
+  {
+    "key": 311,
+    "name": "Sheryl Good",
+    "app_data": {
+      "email": "sherylgood@zenthall.com",
+      "phone": "+56 (942) 585-3993"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 1,
+      "rating": 0.77,
+      "points": 95691,
+      "completedTransactions": 82136
+    }
+  },
+  {
+    "key": 312,
+    "name": "Leonor Gamble",
+    "app_data": {
+      "email": "leonorgamble@zenthall.com",
+      "phone": "+56 (911) 426-3260"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 3,
+      "rating": 0.77,
+      "points": 70927,
+      "completedTransactions": 40802
+    }
+  },
+  {
+    "key": 313,
+    "name": "Marilyn Castro",
+    "app_data": {
+      "email": "marilyncastro@zenthall.com",
+      "phone": "+56 (827) 418-3466"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 4,
+      "rating": 0.33,
+      "points": 48681,
+      "completedTransactions": 79976
+    }
+  },
+  {
+    "key": 314,
+    "name": "Jacobs Lawson",
+    "app_data": {
+      "email": "jacobslawson@zenthall.com",
+      "phone": "+56 (811) 417-2546"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 6,
+      "rating": 0.89,
+      "points": 53855,
+      "completedTransactions": 62073
+    }
+  },
+  {
+    "key": 315,
+    "name": "Luna Farley",
+    "app_data": {
+      "email": "lunafarley@zenthall.com",
+      "phone": "+56 (974) 586-2647"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 7,
+      "rating": 0.27,
+      "points": 18841,
+      "completedTransactions": 19896
+    }
+  },
+  {
+    "key": 316,
+    "name": "Marquita Stanton",
+    "app_data": {
+      "email": "marquitastanton@zenthall.com",
+      "phone": "+56 (990) 406-2110"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 6,
+      "rating": 0.63,
+      "points": 74188,
+      "completedTransactions": 3404
+    }
+  },
+  {
+    "key": 317,
+    "name": "Gibson Jimenez",
+    "app_data": {
+      "email": "gibsonjimenez@zenthall.com",
+      "phone": "+56 (895) 544-2831"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 7,
+      "rating": 0.26,
+      "points": 46886,
+      "completedTransactions": 45649
+    }
+  },
+  {
+    "key": 318,
+    "name": "Gray Blanchard",
+    "app_data": {
+      "email": "grayblanchard@zenthall.com",
+      "phone": "+56 (853) 581-2204"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 4,
+      "rating": 0.17,
+      "points": 7356,
+      "completedTransactions": 95133
+    }
+  },
+  {
+    "key": 319,
+    "name": "Hamilton Craft",
+    "app_data": {
+      "email": "hamiltoncraft@zenthall.com",
+      "phone": "+56 (937) 479-2858"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 4,
+      "rating": 0.22,
+      "points": 90764,
+      "completedTransactions": 89100
+    }
+  },
+  {
+    "key": 320,
+    "name": "Mcclure Pate",
+    "app_data": {
+      "email": "mcclurepate@zenthall.com",
+      "phone": "+56 (867) 501-2181"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 6,
+      "rating": 0.87,
+      "points": 16563,
+      "completedTransactions": 51914
+    }
+  },
+  {
+    "key": 321,
+    "name": "Burt Mcdaniel",
+    "app_data": {
+      "email": "burtmcdaniel@zenthall.com",
+      "phone": "+56 (938) 486-2002"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 6,
+      "rating": 0.67,
+      "points": 52201,
+      "completedTransactions": 40844
+    }
+  },
+  {
+    "key": 322,
+    "name": "Stout Fischer",
+    "app_data": {
+      "email": "stoutfischer@zenthall.com",
+      "phone": "+56 (832) 470-2387"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 7,
+      "rating": 0,
+      "points": 74951,
+      "completedTransactions": 44126
+    }
+  },
+  {
+    "key": 323,
+    "name": "Annmarie Mills",
+    "app_data": {
+      "email": "annmariemills@zenthall.com",
+      "phone": "+56 (868) 510-2060"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 7,
+      "rating": 0.42,
+      "points": 681,
+      "completedTransactions": 78303
+    }
+  },
+  {
+    "key": 324,
+    "name": "Carey Spencer",
+    "app_data": {
+      "email": "careyspencer@zenthall.com",
+      "phone": "+56 (937) 429-3465"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 4,
+      "rating": 0.43,
+      "points": 86352,
+      "completedTransactions": 38188
+    }
+  },
+  {
+    "key": 325,
+    "name": "Benita Durham",
+    "app_data": {
+      "email": "benitadurham@zenthall.com",
+      "phone": "+56 (800) 457-2721"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 3,
+      "rating": 0.97,
+      "points": 16310,
+      "completedTransactions": 90201
+    }
+  },
+  {
+    "key": 326,
+    "name": "Gilbert Robles",
+    "app_data": {
+      "email": "gilbertrobles@zenthall.com",
+      "phone": "+56 (812) 409-2110"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 1,
+      "rating": 0.54,
+      "points": 77846,
+      "completedTransactions": 46353
+    }
+  },
+  {
+    "key": 327,
+    "name": "Ericka Parsons",
+    "app_data": {
+      "email": "erickaparsons@zenthall.com",
+      "phone": "+56 (819) 410-2779"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 8,
+      "rating": 0.94,
+      "points": 22739,
+      "completedTransactions": 87733
+    }
+  },
+  {
+    "key": 328,
+    "name": "Stefanie Crosby",
+    "app_data": {
+      "email": "stefaniecrosby@zenthall.com",
+      "phone": "+56 (946) 402-2925"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 4,
+      "rating": 0.03,
+      "points": 61583,
+      "completedTransactions": 29480
+    }
+  },
+  {
+    "key": 329,
+    "name": "Lindsey Allison",
+    "app_data": {
+      "email": "lindseyallison@zenthall.com",
+      "phone": "+56 (923) 554-2610"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 0,
+      "rating": 0.57,
+      "points": 29374,
+      "completedTransactions": 22585
+    }
+  },
+  {
+    "key": 330,
+    "name": "Corinne Witt",
+    "app_data": {
+      "email": "corinnewitt@zenthall.com",
+      "phone": "+56 (870) 549-3475"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 0,
+      "rating": 0.08,
+      "points": 53417,
+      "completedTransactions": 18674
+    }
+  },
+  {
+    "key": 331,
+    "name": "Margarita Cameron",
+    "app_data": {
+      "email": "margaritacameron@zenthall.com",
+      "phone": "+56 (944) 557-3299"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 3,
+      "rating": 0.3,
+      "points": 19618,
+      "completedTransactions": 73683
+    }
+  },
+  {
+    "key": 332,
+    "name": "Tillman Carpenter",
+    "app_data": {
+      "email": "tillmancarpenter@zenthall.com",
+      "phone": "+56 (990) 562-2407"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 2,
+      "rating": 0.89,
+      "points": 83569,
+      "completedTransactions": 40106
+    }
+  },
+  {
+    "key": 333,
+    "name": "Christian Fields",
+    "app_data": {
+      "email": "christianfields@zenthall.com",
+      "phone": "+56 (966) 540-2165"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 0,
+      "rating": 0.44,
+      "points": 16394,
+      "completedTransactions": 51751
+    }
+  },
+  {
+    "key": 334,
+    "name": "Jody Hall",
+    "app_data": {
+      "email": "jodyhall@zenthall.com",
+      "phone": "+56 (961) 455-2855"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 10,
+      "rating": 0.08,
+      "points": 11826,
+      "completedTransactions": 70337
+    }
+  },
+  {
+    "key": 335,
+    "name": "Wyatt Orr",
+    "app_data": {
+      "email": "wyattorr@zenthall.com",
+      "phone": "+56 (851) 429-3428"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 6,
+      "rating": 0.6,
+      "points": 24131,
+      "completedTransactions": 39861
+    }
+  },
+  {
+    "key": 336,
+    "name": "Katheryn Norton",
+    "app_data": {
+      "email": "katherynnorton@zenthall.com",
+      "phone": "+56 (810) 435-3590"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 6,
+      "rating": 0.39,
+      "points": 42594,
+      "completedTransactions": 8548
+    }
+  },
+  {
+    "key": 337,
+    "name": "Estrada Scott",
+    "app_data": {
+      "email": "estradascott@zenthall.com",
+      "phone": "+56 (826) 406-2821"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 1,
+      "rating": 0.03,
+      "points": 64259,
+      "completedTransactions": 57890
+    }
+  },
+  {
+    "key": 338,
+    "name": "Lila Camacho",
+    "app_data": {
+      "email": "lilacamacho@zenthall.com",
+      "phone": "+56 (878) 593-3255"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 4,
+      "rating": 0.8,
+      "points": 18954,
+      "completedTransactions": 91105
+    }
+  },
+  {
+    "key": 339,
+    "name": "Jordan Ramos",
+    "app_data": {
+      "email": "jordanramos@zenthall.com",
+      "phone": "+56 (836) 450-2843"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 6,
+      "rating": 0.37,
+      "points": 59757,
+      "completedTransactions": 95940
+    }
+  },
+  {
+    "key": 340,
+    "name": "Elizabeth Wilkins",
+    "app_data": {
+      "email": "elizabethwilkins@zenthall.com",
+      "phone": "+56 (911) 567-2959"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 9,
+      "rating": 0.55,
+      "points": 98635,
+      "completedTransactions": 1031
+    }
+  },
+  {
+    "key": 341,
+    "name": "Glover Walker",
+    "app_data": {
+      "email": "gloverwalker@zenthall.com",
+      "phone": "+56 (902) 495-2356"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 10,
+      "rating": 0.64,
+      "points": 37697,
+      "completedTransactions": 58785
+    }
+  },
+  {
+    "key": 342,
+    "name": "Joanna Collins",
+    "app_data": {
+      "email": "joannacollins@zenthall.com",
+      "phone": "+56 (996) 453-2522"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 0,
+      "rating": 0.19,
+      "points": 17712,
+      "completedTransactions": 99231
+    }
+  },
+  {
+    "key": 343,
+    "name": "Roslyn Prince",
+    "app_data": {
+      "email": "roslynprince@zenthall.com",
+      "phone": "+56 (980) 513-2959"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 7,
+      "rating": 0.38,
+      "points": 35315,
+      "completedTransactions": 39562
+    }
+  },
+  {
+    "key": 344,
+    "name": "Iva Lamb",
+    "app_data": {
+      "email": "ivalamb@zenthall.com",
+      "phone": "+56 (800) 529-2491"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 6,
+      "rating": 0.17,
+      "points": 10012,
+      "completedTransactions": 95211
+    }
+  },
+  {
+    "key": 345,
+    "name": "Fox Hurley",
+    "app_data": {
+      "email": "foxhurley@zenthall.com",
+      "phone": "+56 (831) 480-2029"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 1,
+      "rating": 0.95,
+      "points": 57060,
+      "completedTransactions": 88600
+    }
+  },
+  {
+    "key": 346,
+    "name": "Jo Velazquez",
+    "app_data": {
+      "email": "jovelazquez@zenthall.com",
+      "phone": "+56 (872) 459-2925"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 1,
+      "rating": 0.01,
+      "points": 20730,
+      "completedTransactions": 52342
+    }
+  },
+  {
+    "key": 347,
+    "name": "Reynolds Cotton",
+    "app_data": {
+      "email": "reynoldscotton@zenthall.com",
+      "phone": "+56 (880) 552-3604"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 3,
+      "rating": 0.49,
+      "points": 2478,
+      "completedTransactions": 80034
+    }
+  },
+  {
+    "key": 348,
+    "name": "Marcia Frost",
+    "app_data": {
+      "email": "marciafrost@zenthall.com",
+      "phone": "+56 (944) 474-2740"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 5,
+      "rating": 0.72,
+      "points": 94983,
+      "completedTransactions": 18914
+    }
+  },
+  {
+    "key": 349,
+    "name": "Faulkner Day",
+    "app_data": {
+      "email": "faulknerday@zenthall.com",
+      "phone": "+56 (984) 427-3699"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 9,
+      "rating": 0.59,
+      "points": 46769,
+      "completedTransactions": 48350
+    }
+  },
+  {
+    "key": 350,
+    "name": "Ayala May",
+    "app_data": {
+      "email": "ayalamay@zenthall.com",
+      "phone": "+56 (935) 563-2683"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 5,
+      "rating": 0,
+      "points": 76197,
+      "completedTransactions": 74734
+    }
+  },
+  {
+    "key": 351,
+    "name": "Liz Strong",
+    "app_data": {
+      "email": "lizstrong@zenthall.com",
+      "phone": "+56 (983) 591-2357"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 4,
+      "rating": 0.64,
+      "points": 29359,
+      "completedTransactions": 94710
+    }
+  },
+  {
+    "key": 352,
+    "name": "Watts Wilcox",
+    "app_data": {
+      "email": "wattswilcox@zenthall.com",
+      "phone": "+56 (901) 458-2807"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 1,
+      "rating": 0.06,
+      "points": 81699,
+      "completedTransactions": 14950
+    }
+  },
+  {
+    "key": 353,
+    "name": "Zamora Mcmahon",
+    "app_data": {
+      "email": "zamoramcmahon@zenthall.com",
+      "phone": "+56 (858) 453-3658"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 0,
+      "rating": 0.47,
+      "points": 97685,
+      "completedTransactions": 85791
+    }
+  },
+  {
+    "key": 354,
+    "name": "Meredith Cobb",
+    "app_data": {
+      "email": "meredithcobb@zenthall.com",
+      "phone": "+56 (863) 520-3639"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 2,
+      "rating": 0.01,
+      "points": 10761,
+      "completedTransactions": 56789
+    }
+  },
+  {
+    "key": 355,
+    "name": "Kim Ware",
+    "app_data": {
+      "email": "kimware@zenthall.com",
+      "phone": "+56 (938) 406-2758"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 5,
+      "rating": 0.82,
+      "points": 23802,
+      "completedTransactions": 4111
+    }
+  },
+  {
+    "key": 356,
+    "name": "Betty Gibbs",
+    "app_data": {
+      "email": "bettygibbs@zenthall.com",
+      "phone": "+56 (843) 480-3130"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 7,
+      "rating": 0.07,
+      "points": 31626,
+      "completedTransactions": 49098
+    }
+  },
+  {
+    "key": 357,
+    "name": "Mattie Barker",
+    "app_data": {
+      "email": "mattiebarker@zenthall.com",
+      "phone": "+56 (940) 403-2754"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 6,
+      "rating": 0.92,
+      "points": 20242,
+      "completedTransactions": 48792
+    }
+  },
+  {
+    "key": 358,
+    "name": "Battle Blake",
+    "app_data": {
+      "email": "battleblake@zenthall.com",
+      "phone": "+56 (872) 512-2853"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 6,
+      "rating": 0.6,
+      "points": 44319,
+      "completedTransactions": 25339
+    }
+  },
+  {
+    "key": 359,
+    "name": "Emilia Reese",
+    "app_data": {
+      "email": "emiliareese@zenthall.com",
+      "phone": "+56 (962) 441-2521"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 4,
+      "rating": 0.85,
+      "points": 73101,
+      "completedTransactions": 50327
+    }
+  },
+  {
+    "key": 360,
+    "name": "Monica Gaines",
+    "app_data": {
+      "email": "monicagaines@zenthall.com",
+      "phone": "+56 (970) 457-3782"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 4,
+      "rating": 0.13,
+      "points": 16169,
+      "completedTransactions": 8691
+    }
+  },
+  {
+    "key": 361,
+    "name": "Deidre Dunlap",
+    "app_data": {
+      "email": "deidredunlap@zenthall.com",
+      "phone": "+56 (804) 564-3245"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 5,
+      "rating": 0.57,
+      "points": 91703,
+      "completedTransactions": 79439
+    }
+  },
+  {
+    "key": 362,
+    "name": "Laverne Schroeder",
+    "app_data": {
+      "email": "laverneschroeder@zenthall.com",
+      "phone": "+56 (907) 401-2142"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 4,
+      "rating": 0.57,
+      "points": 70383,
+      "completedTransactions": 43912
+    }
+  },
+  {
+    "key": 363,
+    "name": "Ruby Sanchez",
+    "app_data": {
+      "email": "rubysanchez@zenthall.com",
+      "phone": "+56 (993) 539-3520"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 0,
+      "rating": 0.48,
+      "points": 13281,
+      "completedTransactions": 89115
+    }
+  },
+  {
+    "key": 364,
+    "name": "Letitia Sharp",
+    "app_data": {
+      "email": "letitiasharp@zenthall.com",
+      "phone": "+56 (800) 549-2967"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 4,
+      "rating": 0.78,
+      "points": 49402,
+      "completedTransactions": 4385
+    }
+  },
+  {
+    "key": 365,
+    "name": "Webb Herman",
+    "app_data": {
+      "email": "webbherman@zenthall.com",
+      "phone": "+56 (828) 420-2976"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 9,
+      "rating": 0.66,
+      "points": 80580,
+      "completedTransactions": 9997
+    }
+  },
+  {
+    "key": 366,
+    "name": "Frankie Bentley",
+    "app_data": {
+      "email": "frankiebentley@zenthall.com",
+      "phone": "+56 (887) 592-2261"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 0,
+      "rating": 0.4,
+      "points": 66593,
+      "completedTransactions": 26682
+    }
+  },
+  {
+    "key": 367,
+    "name": "Janice Gonzalez",
+    "app_data": {
+      "email": "janicegonzalez@zenthall.com",
+      "phone": "+56 (831) 414-3549"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 0,
+      "rating": 0.48,
+      "points": 36607,
+      "completedTransactions": 74506
+    }
+  },
+  {
+    "key": 368,
+    "name": "Shelly Marks",
+    "app_data": {
+      "email": "shellymarks@zenthall.com",
+      "phone": "+56 (862) 410-3182"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 7,
+      "rating": 0.49,
+      "points": 86970,
+      "completedTransactions": 54443
+    }
+  },
+  {
+    "key": 369,
+    "name": "Colette Ayers",
+    "app_data": {
+      "email": "coletteayers@zenthall.com",
+      "phone": "+56 (852) 425-2517"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 3,
+      "rating": 0.64,
+      "points": 49470,
+      "completedTransactions": 92195
+    }
+  },
+  {
+    "key": 370,
+    "name": "Alexandria Sanford",
+    "app_data": {
+      "email": "alexandriasanford@zenthall.com",
+      "phone": "+56 (864) 509-2669"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 6,
+      "rating": 0.95,
+      "points": 98774,
+      "completedTransactions": 86524
+    }
+  },
+  {
+    "key": 371,
+    "name": "Langley Daugherty",
+    "app_data": {
+      "email": "langleydaugherty@zenthall.com",
+      "phone": "+56 (826) 562-3351"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 9,
+      "rating": 0.63,
+      "points": 9771,
+      "completedTransactions": 79422
+    }
+  },
+  {
+    "key": 372,
+    "name": "Rosalinda Sloan",
+    "app_data": {
+      "email": "rosalindasloan@zenthall.com",
+      "phone": "+56 (942) 576-3489"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 1,
+      "rating": 0.69,
+      "points": 60911,
+      "completedTransactions": 51929
+    }
+  },
+  {
+    "key": 373,
+    "name": "Sharron Moon",
+    "app_data": {
+      "email": "sharronmoon@zenthall.com",
+      "phone": "+56 (868) 446-3938"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 6,
+      "rating": 0.9,
+      "points": 85509,
+      "completedTransactions": 52649
+    }
+  },
+  {
+    "key": 374,
+    "name": "Kasey Patel",
+    "app_data": {
+      "email": "kaseypatel@zenthall.com",
+      "phone": "+56 (872) 438-2319"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 10,
+      "rating": 0.36,
+      "points": 17291,
+      "completedTransactions": 24585
+    }
+  },
+  {
+    "key": 375,
+    "name": "Rodgers Ratliff",
+    "app_data": {
+      "email": "rodgersratliff@zenthall.com",
+      "phone": "+56 (862) 563-2074"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 6,
+      "rating": 0.34,
+      "points": 70944,
+      "completedTransactions": 79361
+    }
+  },
+  {
+    "key": 376,
+    "name": "Sally Pena",
+    "app_data": {
+      "email": "sallypena@zenthall.com",
+      "phone": "+56 (833) 479-3534"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 7,
+      "rating": 0.1,
+      "points": 15618,
+      "completedTransactions": 73211
+    }
+  },
+  {
+    "key": 377,
+    "name": "Gale Solis",
+    "app_data": {
+      "email": "galesolis@zenthall.com",
+      "phone": "+56 (811) 552-3475"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 10,
+      "rating": 0.93,
+      "points": 60505,
+      "completedTransactions": 12502
+    }
+  },
+  {
+    "key": 378,
+    "name": "Dawn Hoffman",
+    "app_data": {
+      "email": "dawnhoffman@zenthall.com",
+      "phone": "+56 (847) 442-2127"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 6,
+      "rating": 0.97,
+      "points": 81600,
+      "completedTransactions": 47891
+    }
+  },
+  {
+    "key": 379,
+    "name": "Clayton Randolph",
+    "app_data": {
+      "email": "claytonrandolph@zenthall.com",
+      "phone": "+56 (945) 439-2460"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 5,
+      "rating": 0.81,
+      "points": 25182,
+      "completedTransactions": 14198
+    }
+  },
+  {
+    "key": 380,
+    "name": "Polly Dyer",
+    "app_data": {
+      "email": "pollydyer@zenthall.com",
+      "phone": "+56 (993) 457-2258"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 0,
+      "rating": 0.26,
+      "points": 80517,
+      "completedTransactions": 82487
+    }
+  },
+  {
+    "key": 381,
+    "name": "Nola Mckay",
+    "app_data": {
+      "email": "nolamckay@zenthall.com",
+      "phone": "+56 (980) 487-2186"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 0,
+      "rating": 0.82,
+      "points": 48250,
+      "completedTransactions": 4582
+    }
+  },
+  {
+    "key": 382,
+    "name": "Beverly Briggs",
+    "app_data": {
+      "email": "beverlybriggs@zenthall.com",
+      "phone": "+56 (997) 533-2565"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 0,
+      "rating": 0.45,
+      "points": 6997,
+      "completedTransactions": 59738
+    }
+  },
+  {
+    "key": 383,
+    "name": "Price Small",
+    "app_data": {
+      "email": "pricesmall@zenthall.com",
+      "phone": "+56 (812) 466-3829"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 9,
+      "rating": 0.14,
+      "points": 19246,
+      "completedTransactions": 59907
+    }
+  },
+  {
+    "key": 384,
+    "name": "Erma Nelson",
+    "app_data": {
+      "email": "ermanelson@zenthall.com",
+      "phone": "+56 (804) 404-3021"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 8,
+      "rating": 0.07,
+      "points": 6947,
+      "completedTransactions": 87509
+    }
+  },
+  {
+    "key": 385,
+    "name": "Hines Hahn",
+    "app_data": {
+      "email": "hineshahn@zenthall.com",
+      "phone": "+56 (971) 595-3738"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 10,
+      "rating": 0.39,
+      "points": 16569,
+      "completedTransactions": 36500
+    }
+  },
+  {
+    "key": 386,
+    "name": "Dickson Palmer",
+    "app_data": {
+      "email": "dicksonpalmer@zenthall.com",
+      "phone": "+56 (951) 442-3000"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 5,
+      "rating": 0.88,
+      "points": 31095,
+      "completedTransactions": 12889
+    }
+  },
+  {
+    "key": 387,
+    "name": "Louisa Barry",
+    "app_data": {
+      "email": "louisabarry@zenthall.com",
+      "phone": "+56 (907) 437-2467"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 1,
+      "rating": 0.02,
+      "points": 98127,
+      "completedTransactions": 49559
+    }
+  },
+  {
+    "key": 388,
+    "name": "Glass Baldwin",
+    "app_data": {
+      "email": "glassbaldwin@zenthall.com",
+      "phone": "+56 (894) 494-2210"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 2,
+      "rating": 0.15,
+      "points": 94250,
+      "completedTransactions": 69326
+    }
+  },
+  {
+    "key": 389,
+    "name": "Sophie Yates",
+    "app_data": {
+      "email": "sophieyates@zenthall.com",
+      "phone": "+56 (928) 576-2117"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 7,
+      "rating": 0.95,
+      "points": 37866,
+      "completedTransactions": 78423
+    }
+  },
+  {
+    "key": 390,
+    "name": "Tucker Mccullough",
+    "app_data": {
+      "email": "tuckermccullough@zenthall.com",
+      "phone": "+56 (896) 469-2734"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 7,
+      "rating": 0.59,
+      "points": 59923,
+      "completedTransactions": 44847
+    }
+  },
+  {
+    "key": 391,
+    "name": "Belinda Pitts",
+    "app_data": {
+      "email": "belindapitts@zenthall.com",
+      "phone": "+56 (816) 541-2891"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 6,
+      "rating": 0.52,
+      "points": 72359,
+      "completedTransactions": 22290
+    }
+  },
+  {
+    "key": 392,
+    "name": "Beck Jarvis",
+    "app_data": {
+      "email": "beckjarvis@zenthall.com",
+      "phone": "+56 (913) 420-2975"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 4,
+      "rating": 0.43,
+      "points": 60967,
+      "completedTransactions": 50025
+    }
+  },
+  {
+    "key": 393,
+    "name": "Lawrence Michael",
+    "app_data": {
+      "email": "lawrencemichael@zenthall.com",
+      "phone": "+56 (969) 493-2950"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 2,
+      "rating": 0.65,
+      "points": 61672,
+      "completedTransactions": 44486
+    }
+  },
+  {
+    "key": 394,
+    "name": "Dina Sawyer",
+    "app_data": {
+      "email": "dinasawyer@zenthall.com",
+      "phone": "+56 (871) 404-2245"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 6,
+      "rating": 0.35,
+      "points": 8584,
+      "completedTransactions": 85919
+    }
+  },
+  {
+    "key": 395,
+    "name": "Dale Davenport",
+    "app_data": {
+      "email": "daledavenport@zenthall.com",
+      "phone": "+56 (918) 481-3398"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 6,
+      "rating": 0.17,
+      "points": 39893,
+      "completedTransactions": 69612
+    }
+  },
+  {
+    "key": 396,
+    "name": "Taylor Glenn",
+    "app_data": {
+      "email": "taylorglenn@zenthall.com",
+      "phone": "+56 (941) 547-2439"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 5,
+      "rating": 0.46,
+      "points": 9245,
+      "completedTransactions": 55868
+    }
+  },
+  {
+    "key": 397,
+    "name": "Mckay Charles",
+    "app_data": {
+      "email": "mckaycharles@zenthall.com",
+      "phone": "+56 (973) 590-3068"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 3,
+      "rating": 0.45,
+      "points": 51836,
+      "completedTransactions": 7581
+    }
+  },
+  {
+    "key": 398,
+    "name": "Lamb Nolan",
+    "app_data": {
+      "email": "lambnolan@zenthall.com",
+      "phone": "+56 (923) 553-3112"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 5,
+      "rating": 0.5,
+      "points": 78199,
+      "completedTransactions": 37286
+    }
+  },
+  {
+    "key": 399,
+    "name": "Marsh Estes",
+    "app_data": {
+      "email": "marshestes@zenthall.com",
+      "phone": "+56 (968) 421-2140"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 5,
+      "rating": 0.09,
+      "points": 35968,
+      "completedTransactions": 52957
+    }
+  },
+  {
+    "key": 400,
+    "name": "Murray French",
+    "app_data": {
+      "email": "murrayfrench@zenthall.com",
+      "phone": "+56 (987) 519-3211"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 7,
+      "rating": 0.16,
+      "points": 84523,
+      "completedTransactions": 22078
+    }
+  },
+  {
+    "key": 401,
+    "name": "Emma Rich",
+    "app_data": {
+      "email": "emmarich@zenthall.com",
+      "phone": "+56 (951) 419-2523"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 4,
+      "rating": 0.76,
+      "points": 13890,
+      "completedTransactions": 82759
+    }
+  },
+  {
+    "key": 402,
+    "name": "Nash Bond",
+    "app_data": {
+      "email": "nashbond@zenthall.com",
+      "phone": "+56 (900) 586-3081"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 1,
+      "rating": 0.1,
+      "points": 96134,
+      "completedTransactions": 93664
+    }
+  },
+  {
+    "key": 403,
+    "name": "Roxanne Norris",
+    "app_data": {
+      "email": "roxannenorris@zenthall.com",
+      "phone": "+56 (908) 584-2806"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 10,
+      "rating": 0.5,
+      "points": 16840,
+      "completedTransactions": 42233
+    }
+  },
+  {
+    "key": 404,
+    "name": "Gracie Ashley",
+    "app_data": {
+      "email": "gracieashley@zenthall.com",
+      "phone": "+56 (932) 502-2540"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 2,
+      "rating": 0.7,
+      "points": 51723,
+      "completedTransactions": 32050
+    }
+  },
+  {
+    "key": 405,
+    "name": "Whitney Webster",
+    "app_data": {
+      "email": "whitneywebster@zenthall.com",
+      "phone": "+56 (943) 560-2349"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 3,
+      "rating": 0.13,
+      "points": 78199,
+      "completedTransactions": 98676
+    }
+  },
+  {
+    "key": 406,
+    "name": "Kenya Keller",
+    "app_data": {
+      "email": "kenyakeller@zenthall.com",
+      "phone": "+56 (970) 483-3002"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 5,
+      "rating": 0.43,
+      "points": 14246,
+      "completedTransactions": 68282
+    }
+  },
+  {
+    "key": 407,
+    "name": "Hooper Mosley",
+    "app_data": {
+      "email": "hoopermosley@zenthall.com",
+      "phone": "+56 (885) 520-3578"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 8,
+      "rating": 0.42,
+      "points": 25842,
+      "completedTransactions": 32030
+    }
+  },
+  {
+    "key": 408,
+    "name": "Lolita Stein",
+    "app_data": {
+      "email": "lolitastein@zenthall.com",
+      "phone": "+56 (923) 403-3471"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 3,
+      "rating": 0.34,
+      "points": 66937,
+      "completedTransactions": 92360
+    }
+  },
+  {
+    "key": 409,
+    "name": "Christy Cooley",
+    "app_data": {
+      "email": "christycooley@zenthall.com",
+      "phone": "+56 (847) 551-3237"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 4,
+      "rating": 0.66,
+      "points": 39664,
+      "completedTransactions": 83111
+    }
+  },
+  {
+    "key": 410,
+    "name": "Franco Ferguson",
+    "app_data": {
+      "email": "francoferguson@zenthall.com",
+      "phone": "+56 (837) 417-2895"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Platinum",
+      "age": 2,
+      "rating": 0.85,
+      "points": 7746,
+      "completedTransactions": 87993
+    }
+  },
+  {
+    "key": 411,
+    "name": "Barrett Lara",
+    "app_data": {
+      "email": "barrettlara@zenthall.com",
+      "phone": "+56 (961) 506-3202"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 4,
+      "rating": 0.91,
+      "points": 44016,
+      "completedTransactions": 74467
+    }
+  },
+  {
+    "key": 412,
+    "name": "Ford Martin",
+    "app_data": {
+      "email": "fordmartin@zenthall.com",
+      "phone": "+56 (965) 469-3315"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 8,
+      "rating": 0.72,
+      "points": 24271,
+      "completedTransactions": 46355
+    }
+  },
+  {
+    "key": 413,
+    "name": "Valarie Herrera",
+    "app_data": {
+      "email": "valarieherrera@zenthall.com",
+      "phone": "+56 (918) 461-3067"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 5,
+      "rating": 0.4,
+      "points": 94527,
+      "completedTransactions": 43982
+    }
+  },
+  {
+    "key": 414,
+    "name": "Hewitt Hunter",
+    "app_data": {
+      "email": "hewitthunter@zenthall.com",
+      "phone": "+56 (893) 580-3441"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 6,
+      "rating": 0.47,
+      "points": 51507,
+      "completedTransactions": 29168
+    }
+  },
+  {
+    "key": 415,
+    "name": "Mcleod Le",
+    "app_data": {
+      "email": "mcleodle@zenthall.com",
+      "phone": "+56 (967) 571-2077"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 6,
+      "rating": 0.15,
+      "points": 11260,
+      "completedTransactions": 83033
+    }
+  },
+  {
+    "key": 416,
+    "name": "Lorna Logan",
+    "app_data": {
+      "email": "lornalogan@zenthall.com",
+      "phone": "+56 (944) 478-3770"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 4,
+      "rating": 0.54,
+      "points": 74564,
+      "completedTransactions": 84830
+    }
+  },
+  {
+    "key": 417,
+    "name": "Trina Guerrero",
+    "app_data": {
+      "email": "trinaguerrero@zenthall.com",
+      "phone": "+56 (924) 600-3636"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 5,
+      "rating": 0.76,
+      "points": 11461,
+      "completedTransactions": 13601
+    }
+  },
+  {
+    "key": 418,
+    "name": "Mckinney Goff",
+    "app_data": {
+      "email": "mckinneygoff@zenthall.com",
+      "phone": "+56 (975) 492-3862"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 8,
+      "rating": 0.66,
+      "points": 24725,
+      "completedTransactions": 30236
+    }
+  },
+  {
+    "key": 419,
+    "name": "Cervantes Battle",
+    "app_data": {
+      "email": "cervantesbattle@zenthall.com",
+      "phone": "+56 (936) 400-3183"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 6,
+      "rating": 0.09,
+      "points": 284,
+      "completedTransactions": 19003
+    }
+  },
+  {
+    "key": 420,
+    "name": "Dolores Fox",
+    "app_data": {
+      "email": "doloresfox@zenthall.com",
+      "phone": "+56 (810) 507-3577"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 10,
+      "rating": 0.81,
+      "points": 79216,
+      "completedTransactions": 76373
+    }
+  },
+  {
+    "key": 421,
+    "name": "Madden Roman",
+    "app_data": {
+      "email": "maddenroman@zenthall.com",
+      "phone": "+56 (995) 478-2058"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 0,
+      "rating": 0.37,
+      "points": 95258,
+      "completedTransactions": 47338
+    }
+  },
+  {
+    "key": 422,
+    "name": "Hahn Garrett",
+    "app_data": {
+      "email": "hahngarrett@zenthall.com",
+      "phone": "+56 (930) 461-3151"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 8,
+      "rating": 0.64,
+      "points": 1539,
+      "completedTransactions": 11484
+    }
+  },
+  {
+    "key": 423,
+    "name": "Daphne Cook",
+    "app_data": {
+      "email": "daphnecook@zenthall.com",
+      "phone": "+56 (895) 453-3803"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 0,
+      "rating": 0.4,
+      "points": 2185,
+      "completedTransactions": 8018
+    }
+  },
+  {
+    "key": 424,
+    "name": "Caitlin Monroe",
+    "app_data": {
+      "email": "caitlinmonroe@zenthall.com",
+      "phone": "+56 (947) 485-3485"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 2,
+      "rating": 0.15,
+      "points": 53918,
+      "completedTransactions": 40738
+    }
+  },
+  {
+    "key": 425,
+    "name": "Charlotte Benson",
+    "app_data": {
+      "email": "charlottebenson@zenthall.com",
+      "phone": "+56 (995) 538-3624"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 9,
+      "rating": 0.37,
+      "points": 5644,
+      "completedTransactions": 45529
+    }
+  },
+  {
+    "key": 426,
+    "name": "Latisha Gross",
+    "app_data": {
+      "email": "latishagross@zenthall.com",
+      "phone": "+56 (971) 577-3770"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 0,
+      "rating": 0.32,
+      "points": 63062,
+      "completedTransactions": 54022
+    }
+  },
+  {
+    "key": 427,
+    "name": "Karin Sutton",
+    "app_data": {
+      "email": "karinsutton@zenthall.com",
+      "phone": "+56 (876) 461-2451"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 0,
+      "rating": 0.03,
+      "points": 4452,
+      "completedTransactions": 17230
+    }
+  },
+  {
+    "key": 428,
+    "name": "Catalina Slater",
+    "app_data": {
+      "email": "catalinaslater@zenthall.com",
+      "phone": "+56 (958) 562-2655"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 2,
+      "rating": 0.9,
+      "points": 62730,
+      "completedTransactions": 66484
+    }
+  },
+  {
+    "key": 429,
+    "name": "Aurora Padilla",
+    "app_data": {
+      "email": "aurorapadilla@zenthall.com",
+      "phone": "+56 (892) 441-2706"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 0,
+      "rating": 0.05,
+      "points": 60169,
+      "completedTransactions": 16497
+    }
+  },
+  {
+    "key": 430,
+    "name": "Cheryl Howard",
+    "app_data": {
+      "email": "cherylhoward@zenthall.com",
+      "phone": "+56 (866) 577-3057"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 4,
+      "rating": 0.66,
+      "points": 95789,
+      "completedTransactions": 46460
+    }
+  },
+  {
+    "key": 431,
+    "name": "Spears Mcintosh",
+    "app_data": {
+      "email": "spearsmcintosh@zenthall.com",
+      "phone": "+56 (934) 578-2397"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 0,
+      "rating": 0.9,
+      "points": 86912,
+      "completedTransactions": 22466
+    }
+  },
+  {
+    "key": 432,
+    "name": "Hunt Gonzales",
+    "app_data": {
+      "email": "huntgonzales@zenthall.com",
+      "phone": "+56 (924) 491-2146"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 4,
+      "rating": 0.09,
+      "points": 2333,
+      "completedTransactions": 65072
+    }
+  },
+  {
+    "key": 433,
+    "name": "Sanford Elliott",
+    "app_data": {
+      "email": "sanfordelliott@zenthall.com",
+      "phone": "+56 (938) 443-3609"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 6,
+      "rating": 0.84,
+      "points": 55480,
+      "completedTransactions": 34544
+    }
+  },
+  {
+    "key": 434,
+    "name": "Viola Odom",
+    "app_data": {
+      "email": "violaodom@zenthall.com",
+      "phone": "+56 (851) 435-2863"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Normal",
+      "age": 0,
+      "rating": 0.68,
+      "points": 99933,
+      "completedTransactions": 48238
+    }
+  },
+  {
+    "key": 435,
+    "name": "Krystal Morse",
+    "app_data": {
+      "email": "krystalmorse@zenthall.com",
+      "phone": "+56 (830) 529-2660"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 5,
+      "rating": 0.05,
+      "points": 70564,
+      "completedTransactions": 21194
+    }
+  },
+  {
+    "key": 436,
+    "name": "Jenny Ward",
+    "app_data": {
+      "email": "jennyward@zenthall.com",
+      "phone": "+56 (883) 541-3567"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 3,
+      "rating": 0.28,
+      "points": 23055,
+      "completedTransactions": 62727
+    }
+  },
+  {
+    "key": 437,
+    "name": "Pauline Brooks",
+    "app_data": {
+      "email": "paulinebrooks@zenthall.com",
+      "phone": "+56 (870) 476-3782"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 5,
+      "rating": 0.43,
+      "points": 68919,
+      "completedTransactions": 86424
+    }
+  },
+  {
+    "key": 438,
+    "name": "Valenzuela Wilkinson",
+    "app_data": {
+      "email": "valenzuelawilkinson@zenthall.com",
+      "phone": "+56 (876) 492-2874"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 1,
+      "rating": 0.37,
+      "points": 21526,
+      "completedTransactions": 90600
+    }
+  },
+  {
+    "key": 439,
+    "name": "Jannie Haynes",
+    "app_data": {
+      "email": "janniehaynes@zenthall.com",
+      "phone": "+56 (808) 507-2470"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 5,
+      "rating": 0.32,
+      "points": 13636,
+      "completedTransactions": 11215
+    }
+  },
+  {
+    "key": 440,
+    "name": "Hendricks Simmons",
+    "app_data": {
+      "email": "hendrickssimmons@zenthall.com",
+      "phone": "+56 (907) 600-2683"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 4,
+      "rating": 0.07,
+      "points": 39513,
+      "completedTransactions": 42875
+    }
+  },
+  {
+    "key": 441,
+    "name": "Joyce Stewart",
+    "app_data": {
+      "email": "joycestewart@zenthall.com",
+      "phone": "+56 (930) 433-3757"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 4,
+      "rating": 0.29,
+      "points": 83528,
+      "completedTransactions": 3170
+    }
+  },
+  {
+    "key": 442,
+    "name": "Melva Harmon",
+    "app_data": {
+      "email": "melvaharmon@zenthall.com",
+      "phone": "+56 (864) 406-2417"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Normal",
+      "age": 8,
+      "rating": 0.88,
+      "points": 27426,
+      "completedTransactions": 67895
+    }
+  },
+  {
+    "key": 443,
+    "name": "Irma Bryan",
+    "app_data": {
+      "email": "irmabryan@zenthall.com",
+      "phone": "+56 (870) 501-2792"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 3,
+      "rating": 0.1,
+      "points": 93510,
+      "completedTransactions": 98818
+    }
+  },
+  {
+    "key": 444,
+    "name": "Trudy Hampton",
+    "app_data": {
+      "email": "trudyhampton@zenthall.com",
+      "phone": "+56 (987) 561-3343"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 1,
+      "rating": 0.05,
+      "points": 49338,
+      "completedTransactions": 43078
+    }
+  },
+  {
+    "key": 445,
+    "name": "Flowers Rodgers",
+    "app_data": {
+      "email": "flowersrodgers@zenthall.com",
+      "phone": "+56 (870) 405-3183"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 0,
+      "rating": 0.17,
+      "points": 75205,
+      "completedTransactions": 83141
+    }
+  },
+  {
+    "key": 446,
+    "name": "Milagros Anderson",
+    "app_data": {
+      "email": "milagrosanderson@zenthall.com",
+      "phone": "+56 (836) 472-3681"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Platinum",
+      "age": 1,
+      "rating": 0.49,
+      "points": 72496,
+      "completedTransactions": 84985
+    }
+  },
+  {
+    "key": 447,
+    "name": "Margo Brown",
+    "app_data": {
+      "email": "margobrown@zenthall.com",
+      "phone": "+56 (924) 472-3727"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Sayayin",
+      "age": 0,
+      "rating": 0.16,
+      "points": 88707,
+      "completedTransactions": 10829
+    }
+  },
+  {
+    "key": 448,
+    "name": "Brennan Sykes",
+    "app_data": {
+      "email": "brennansykes@zenthall.com",
+      "phone": "+56 (844) 557-2218"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "Gold",
+      "age": 9,
+      "rating": 0.42,
+      "points": 72776,
+      "completedTransactions": 15442
+    }
+  },
+  {
+    "key": 449,
+    "name": "Rhea Mccarty",
+    "app_data": {
+      "email": "rheamccarty@zenthall.com",
+      "phone": "+56 (991) 447-2653"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "None",
+      "age": 9,
+      "rating": 0.59,
+      "points": 4037,
+      "completedTransactions": 45307
+    }
+  },
+  {
+    "key": 450,
+    "name": "Mullen Mcpherson",
+    "app_data": {
+      "email": "mullenmcpherson@zenthall.com",
+      "phone": "+56 (991) 440-2966"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 8,
+      "rating": 0.01,
+      "points": 53406,
+      "completedTransactions": 3433
+    }
+  },
+  {
+    "key": 451,
+    "name": "Virginia Montoya",
+    "app_data": {
+      "email": "virginiamontoya@zenthall.com",
+      "phone": "+56 (911) 442-3623"
+    },
+    "values": {
+      "isActive": 0,
+      "power_seller_status": "None",
+      "age": 6,
+      "rating": 0.51,
+      "points": 32145,
+      "completedTransactions": 76142
+    }
+  },
+  {
+    "key": 452,
+    "name": "Sanchez Castaneda",
+    "app_data": {
+      "email": "sanchezcastaneda@zenthall.com",
+      "phone": "+56 (984) 509-3154"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 4,
+      "rating": 0.42,
+      "points": 78645,
+      "completedTransactions": 65727
+    }
+  },
+  {
+    "key": 453,
+    "name": "Hogan Richardson",
+    "app_data": {
+      "email": "hoganrichardson@zenthall.com",
+      "phone": "+56 (962) 531-3964"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 7,
+      "rating": 0.97,
+      "points": 28322,
+      "completedTransactions": 63198
+    }
+  },
+  {
+    "key": 454,
+    "name": "Robbins Schneider",
+    "app_data": {
+      "email": "robbinsschneider@zenthall.com",
+      "phone": "+56 (976) 429-2297"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 7,
+      "rating": 0.94,
+      "points": 42324,
+      "completedTransactions": 83750
+    }
+  },
+  {
+    "key": 455,
+    "name": "Elvira Higgins",
+    "app_data": {
+      "email": "elvirahiggins@zenthall.com",
+      "phone": "+56 (917) 433-2057"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Sayayin",
+      "age": 10,
+      "rating": 0.12,
+      "points": 27593,
+      "completedTransactions": 32117
+    }
+  },
+  {
+    "key": 456,
+    "name": "Wallace Santiago",
+    "app_data": {
+      "email": "wallacesantiago@zenthall.com",
+      "phone": "+56 (840) 576-2194"
+    },
+    "values": {
+      "isActive": 1,
+      "power_seller_status": "Gold",
+      "age": 4,
+      "rating": 0.1,
+      "points": 38115,
+      "completedTransactions": 62562
+    }
+  }
+]

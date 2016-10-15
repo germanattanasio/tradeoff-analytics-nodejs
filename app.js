@@ -27,6 +27,10 @@ require('./config/express')(app);
 //integration with tradeoff analytics service
 var tradeoffAnalyticsConfig = require('./config/tradeoff-analytics-config');
 
+//MercadoLibre Integration
+var meli = require('mercadolibre');
+var meliObject = new meli.Meli(process.env.ML_APP_ID, process.env.ML_SECRET_KEY);
+
 tradeoffAnalyticsConfig.setupToken(app, {//for dev purposes. in bluemix it is taken from VCAP.
   url: process.env.TA_URL || 'https://gateway.watsonplatform.net/tradeoff-analytics/api/v1',
   username: process.env.TA_USERNAME || 'USERNAME',
@@ -35,12 +39,18 @@ tradeoffAnalyticsConfig.setupToken(app, {//for dev purposes. in bluemix it is ta
 });
 
 app.get('/', function(req, res) {
-  res.render('index', {
+  res.render('bank', {
     ct: req._csrfToken,
     GOOGLE_ANALYTICS_ID: process.env.GOOGLE_ANALYTICS_ID
   });
 });
-app.get('/refresh', function(req, res) {
+app.get('/user', function(req, res) {
+  res.render('seller', {
+    ct: req._csrfToken,
+    GOOGLE_ANALYTICS_ID: process.env.GOOGLE_ANALYTICS_ID
+  });
+});
+app.get('/data', function(req, res) {
   refreshData();
   res.writeHead(200);
   res.end();
@@ -52,10 +62,32 @@ app.get('/last_refresh', function(req, res) {
     res.end();
   });
 });
+app.post('/valid', function(req, res) {
+  var data = getUserData();
+  console.log(data)
+  var problem = createDataRequest(data, FILE_TEMPLATE_PROFILE);
+  res.json(problem);
+});
+app.get('/auth/mercadolibre', function (req,res) {
+  var response = meliObject.getAuthURL('/check');
+  res.json(response);
+});
+app.get('/check', function (req,res) {
+  res.render('check', {
+    ct: req._csrfToken,
+    GOOGLE_ANALYTICS_ID: process.env.GOOGLE_ANALYTICS_ID
+  });
+});
+app.post('/saveProfile', function (req,res) {
+  var problem = JSON.parse(req.body.body);
+  createProblem(problem);
+  res.json(problem);
+});
 
-var FILE_RAW = 'config/edmunds/cars_raw.json';
+var FILE_RAW = 'config/ml/users_raw.json';
 var FILE_PROBLEM = './public/data/auto.json';
-var edmunds = require('./config/edmunds/Edmunds');
+var FILE_TEMPLATE= './config/ml/problem.template.json';
+var FILE_TEMPLATE_PROFILE= './config/ml/problem_profile.template.json';
 var fs = require('fs');
 
 var SECOND = 1000,
@@ -74,36 +106,51 @@ function checkForRefresh(){
     }
   });
 }
+
+function getUserData(){
+  return [{
+      "key": 454,
+      "name": "Javier Segovia",
+      "app_data": {
+        "email": "jota.segovia@gmail.com",
+        "phone": "+56 951336106"
+      },
+      "values": {
+        "isActive": 1,
+        "power_seller_status": "Gold",
+        "age": 0,
+        "rating": 0.5,
+        "points": 100,
+        "completedTransactions": 100
+      }
+  }]
+}
+
 function refreshData(){
   if(refreshing){
     return;
   }
-  var startTime = Date.now();
   refreshing = true;
-  function onFailure(err){
-    console.log('import failed. \n'+ err);
-    refreshing = false;
-  }
-  try{
-    edmunds.importEdmunds(function(data){// brings the data from RAW file instead from API
-      fs.writeFile(FILE_RAW, JSON.stringify(data,  null, 2));
-//      var data= JSON.parse(fs.readFileSync(FILE_RAW));
-
-      edmunds.mapEdmunds(data, function(problem){
-        fs.writeFile(FILE_PROBLEM, JSON.stringify(problem,  null, 2));
-        refreshing = false;
-
-        var duration  = (Date.now() - startTime),
-          m= Math.floor(duration/MINUTE),
-          s= Math.floor((duration-m*MINUTE)/SECOND);
-        console.log("Duration: "+m+"M:"+s+"s");
-      });
-    }, onFailure);
-  }catch(e){
-    onFailure(e);
-  }
-    //the server will retry in the next check interval;
+  var data = JSON.parse(fs.readFileSync(FILE_RAW));
+  var problem = createDataRequest(data, FILE_TEMPLATE);
+  createData(problem);
+  refreshing = false;
 }
+
+function createData(problem){
+  fs.writeFile(FILE_PROBLEM, JSON.stringify(problem,  null, 2));
+}
+function createProblem(problem){
+  fs.writeFile(FILE_TEMPLATE_PROFILE, JSON.stringify(problem,  null, 2));
+}
+
+function createDataRequest(data, template){
+  var buff = fs.readFileSync(template);
+  var problem = JSON.parse(buff);
+  problem.options = data;
+  return problem;
+}
+
 setInterval(checkForRefresh, TIME_BETWEEN_CHECKS);
 
 function lastRefresh(callback){

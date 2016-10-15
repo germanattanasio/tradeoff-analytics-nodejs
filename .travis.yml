@@ -1,14 +1,12 @@
 language: node_js
 sudo: true
 node_js: stable
-script:
-- npm test
 env:
   global:
-  - CF_APP=tradeoff-analytics-demo
+  - CF_APP=hackathon-700DO
   - CF_API=https://api.ng.bluemix.net
-  - CF_ORGANIZATION=WatsonPlatformServices
-  - CF_SPACE=demos
+  - CF_ORGANIZATION=jotase
+  - CF_SPACE=dev
 before_deploy: npm install -g cf-blue-green
 deploy:
   provider: script
@@ -16,7 +14,7 @@ deploy:
     - cf-blue-green-travis
   on:
     branch: master
-    repo: watson-developer-cloud/tradeoff-analytics-nodejs
+    repo: https://github.com/JotaSe/hackathon-700DO
   skip_cleanup: true
 notifications:
   email: false

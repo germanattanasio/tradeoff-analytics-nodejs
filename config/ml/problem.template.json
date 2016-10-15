@@ -1,0 +1,81 @@
+{
+  "subject": "MercadoLibre",
+  "columns": [
+    {
+      "key": "power_seller_status",
+      "type": "categorical",
+      "goal": "max",
+      "is_objective": false,
+      "full_name": "Estatus de Vendedor",
+      "range": [
+        "None",
+        "Normal",
+        "Gold",
+        "Platinum",
+        "Sayayin"
+      ],
+      "preference": [
+        "Platinum",
+        "Sayayin"
+      ],
+      "description": "Power Seller Status"
+    },
+    {
+      "key": "age",
+      "full_name": "Antiguedad",
+      "type": "numeric",
+      "is_objective": false,
+      "goal": "max",
+      "format": "number:0",
+      "range": {
+        "low": 0,
+        "high": 10
+      },
+      "description": "User's seniority"
+    },
+    {
+      "key": "rating",
+      "full_name": "Rating",
+      "type": "numeric",
+      "is_objective": false,
+      "goal": "max",
+      "format": "number:1.0",
+      "range": {
+        "low": 0,
+        "high": 1
+      },
+      "description": "Average user's rating from MercadoLibre"
+    },
+    {
+      "key": "points",
+      "full_name": "Puntaje",
+      "type": "numeric",
+      "is_objective": false,
+      "goal": "max",
+      "format": "number:0",
+      "description": "Number positive points minus negative points"
+    },
+    {
+      "key": "completedTransactions",
+      "full_name": "Transacciones completadas",
+      "type": "numeric",
+      "is_objective": false,
+      "goal": "max",
+      "format": "number:0",
+      "description": "Completed Transactions"
+    },
+    {
+      "key": "isActive",
+      "full_name": "Usuario Activo",
+      "type": "numeric",
+      "is_objective": false,
+      "goal": "min",
+      "format": "number:0",
+      "range": {
+        "low": 0,
+        "high": 1
+      },
+      "description": "Is the user currently active"
+    }
+  ]
+}
