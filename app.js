@@ -53,9 +53,9 @@ app.get('/last_refresh', function(req, res) {
   });
 });
 
-var FILE_RAW = 'config/edmunds/cars_raw.json';
+var FILE_RAW = 'config/ml/users_raw.json';
 var FILE_PROBLEM = './public/data/auto.json';
-var edmunds = require('./config/edmunds/Edmunds');
+var FILE_TEMPLATE= './config/ml/problem.template.json';
 var fs = require('fs');
 
 var SECOND = 1000,
@@ -84,25 +84,26 @@ function refreshData(){
     console.log('import failed. \n'+ err);
     refreshing = false;
   }
-  try{
-    edmunds.importEdmunds(function(data){// brings the data from RAW file instead from API
-      fs.writeFile(FILE_RAW, JSON.stringify(data,  null, 2));
-//      var data= JSON.parse(fs.readFileSync(FILE_RAW));
 
-      edmunds.mapEdmunds(data, function(problem){
-        fs.writeFile(FILE_PROBLEM, JSON.stringify(problem,  null, 2));
-        refreshing = false;
+  function transform(problem){
+    fs.writeFile(FILE_PROBLEM, JSON.stringify(problem,  null, 2));
+    refreshing = false;
 
-        var duration  = (Date.now() - startTime),
-          m= Math.floor(duration/MINUTE),
-          s= Math.floor((duration-m*MINUTE)/SECOND);
-        console.log("Duration: "+m+"M:"+s+"s");
-      });
-    }, onFailure);
-  }catch(e){
-    onFailure(e);
+    var duration  = (Date.now() - startTime),
+      m= Math.floor(duration/MINUTE),
+      s= Math.floor((duration-m*MINUTE)/SECOND);
+    console.log("Duration: "+m+"M:"+s+"s");
   }
-    //the server will retry in the next check interval;
+
+  var data = JSON.parse(fs.readFileSync(FILE_RAW));
+  fs.readFile(FILE_TEMPLATE, function(err, buff){
+    if(err) {
+      throw err;
+    }
+    var problem = JSON.parse(buff);
+    problem.options = data;
+    transform(problem);
+  });
 }
 setInterval(checkForRefresh, TIME_BETWEEN_CHECKS);
 
