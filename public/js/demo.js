@@ -91,6 +91,7 @@
 
   /**********SERVICE INTERACTION**********/
   function dilemma(problem) {
+    console.log(problem);
     // automatically fetch the token right away
     // later, call getToken.then(function(token) {...}); to use it
     // it's valid for up to an hour
@@ -106,6 +107,7 @@
      * @returns {ProblemData}
      */
     function minimizeProblem(problem) {
+      console.log(problem);
       var objs = problem.columns
           .filter(function(col){
             return col.is_objective;
@@ -239,6 +241,7 @@
           var op = $(tile).data('op');
           return evalOp(op);
         });
+      console.log(evals);
         $(tile).toggleClass('isIn', isIn);
       });
     }
@@ -554,6 +557,46 @@
   function columnValue(col, val){
     return format(val, col.format);
   }
+
+  // AUTH
+  function auth(){
+    $.ajax('/auth/mercadolibre', {
+      method: 'GET'
+    }).then(function(response){
+      console.log(response);
+      window.location = response;
+    })
+  }
+  function check(){
+    console.log('validating');
+    $.ajax('/valid', {
+      method: 'post'
+    }).then(function(response){
+      console.log(response);
+      // var result = dilemma(response);
+      // console.log(result);
+      var good = 'Felicidades, segun tus datos puedes optar por el Credito MICRO de BCI';
+      var bad = 'Lo Sentimos, segun tus datos no estas apto para ninguno de nuestros creditos registrado, sin embargo te notificaremos a la brevedad cuando uno de nustros creditos nuevos se adapten a sus necesidades';
+      $('._demo--output').append(good).show();
+    })
+  }
+  function save(){
+    var subject = theProblem.subject
+    var cols = theProblem.columns.filter(function(c){return c.is_objective;});
+    var problem = {
+      subject: subject,
+      columns: cols
+    }
+    var body = JSON.stringify(problem);
+    console.log(body);
+    $.post('/saveProfile', {
+      json:true,
+      headers: {
+        "content-type": "application/json",
+      },
+      body: body
+    })
+  }
   //underscore template matching conig
   _.templateSettings = {
       interpolate: /\{\{(.+?)\}\}/g
@@ -573,6 +616,9 @@
     });
 
     $('.panel--button').click(analyze);
+    $('.auth').click(auth);
+    $('.check').click(check);
+    $('.save').click(save);
   });
 
 }())
