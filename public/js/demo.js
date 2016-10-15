@@ -219,7 +219,7 @@
         var txt = err.status + ' ' + err.statusText + ' ' + err.responseText;
         console.error(txt, err);
 
-        var errMsg = "<div>Oops something went wrong. Please try again later.</div>" + "<div>" + txt + "</div>";
+        var errMsg = "<div>Oops, algo malio sal</div>" + "<div>" + txt + "</div>";
         $('._demo--error').append(errMsg).show();
       });
   }
@@ -391,7 +391,7 @@
           + '<h6 class="candidates--item-title">{{opName}}</h6>'
           + '<p class="candidates--item-des base--p">{{opDesc}}</p>'
           + '<div class="candidates--item-para-container">{{paraValue}}</div>'
-          + '<div id="compare-{{key}}" class="candidates--item-btn">add to comparison</div>'
+          + '<div id="compare-{{key}}" class="candidates--item-btn">Agregar comparacion</div>'
         + '</div>',
         {key: op.key, opName: op.name, paraValue:paraValue, opDesc: op.description}));
 
@@ -417,8 +417,8 @@
                         '</div>'+
                         '<div class="comparison--candidate-paras"></div>'+
                         '<div class="comparison--choice">'+
-                          '<span class="comparison--close icon icon-close" title="Remove from comparison"></span>'+
-                          '<span class="comparison--confirm icon icon-confirm" title="Make this your final option"></span>'+
+                          '<span class="comparison--close icon icon-close" title="Elimina comparacion"></span>'+
+                          '<span class="comparison--confirm icon icon-confirm" title="Has de esta tu opcion final"></span>'+
                         '</div>'+
                       '</div>';
     var opParaTemplate = '<div class="comparison--candidate-para">'+
@@ -563,7 +563,6 @@
     $.ajax('/auth/mercadolibre', {
       method: 'GET'
     }).then(function(response){
-      console.log(response);
       window.location = response;
     })
   }
@@ -576,7 +575,7 @@
       // var result = dilemma(response);
       // console.log(result);
       var good = 'Felicidades, segun tus datos puedes optar por el Credito MICRO de BCI';
-      var bad = 'Lo Sentimos, segun tus datos no estas apto para ninguno de nuestros creditos registrado, sin embargo te notificaremos a la brevedad cuando uno de nustros creditos nuevos se adapten a sus necesidades';
+      var bad = 'Lo sentimos, segun tus datos no estas apto para ninguno de nuestros creditos registrado, sin embargo te notificaremos a la brevedad cuando uno de nustros creditos nuevos se adapten a sus necesidades';
       $('._demo--output').append(good).show();
     })
   }

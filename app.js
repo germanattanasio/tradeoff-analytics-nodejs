@@ -68,7 +68,7 @@ app.post('/valid', function(req, res) {
   res.json(problem);
 });
 app.get('/auth/mercadolibre', function (req,res) {
-  var response = meliObject.getAuthURL('/user/data');
+  var response = meliObject.getAuthURL('/check');
   res.json(response);
 });
 app.get('/check', function (req,res) {
