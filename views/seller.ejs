@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="css/style.css">
+  <title>Vendedor MercadoLibre</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="ct" content="<%= ct %>">
+  <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  <div class="_demo--banner banner">
+    <div class="_demo--container">
+      <div class="banner--service-container">
+        <div class="banner--service-icon-container">
+          <img class="banner--service-icon" src="images/tradeoff-icon.png" alt="tradeoff analytics service icon">
+        </div>
+        <div class="banner--service-info">
+          <h1 class="banner--service-title base--h1">
+                      <img class="banner--service-icon_INLINE" src="images/tradeoff-icon.png" alt="Some Service API Icon">
+                           Vendedor MercadoLibre
+                  </h1>
+          <div class="banner--service-description">
+            Verifica si puede ser acreditado a algun programa bancario de acuerdo a sus datos de vendedor de Mercadolibre
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- demo body -->
+  <div class="_demo--input">
+    <div class="_demo--content-container">
+        <button class="base--button auth">
+          Autenticarse
+        </button>
+    </div>
+
+
+  <script src="//code.jquery.com/jquery-2.2.2.min.js"></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore-min.js"></script>
+  <script type="text/javascript" src="js/demo.js"></script>
+
+  <% if (GOOGLE_ANALYTICS_ID) { %>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', '<%= GOOGLE_ANALYTICS_ID %>', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+  <% } %>
+</body>
+
+</html>
