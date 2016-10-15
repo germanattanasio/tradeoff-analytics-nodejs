@@ -69,7 +69,7 @@
       "full_name": "Usuario Activo",
       "type": "numeric",
       "is_objective": false,
-      "goal": "max",
+      "goal": "min",
       "format": "number:0",
       "range": {
         "low": 0,

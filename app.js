@@ -64,6 +64,7 @@ app.get('/last_refresh', function(req, res) {
 });
 app.post('/valid', function(req, res) {
   var data = getUserData();
+  console.log(data)
   var problem = createDataRequest(data, FILE_TEMPLATE_PROFILE);
   res.json(problem);
 });
@@ -107,7 +108,7 @@ function checkForRefresh(){
 }
 
 function getUserData(){
-  [{
+  return [{
       "key": 454,
       "name": "Robbins Schneider",
       "app_data": {
@@ -122,7 +123,7 @@ function getUserData(){
         "points": 42324,
         "completedTransactions": 83750
       }
-  }];
+  }]
 }
 
 function refreshData(){

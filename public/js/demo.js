@@ -91,7 +91,6 @@
 
   /**********SERVICE INTERACTION**********/
   function dilemma(problem) {
-    console.log(problem);
     // automatically fetch the token right away
     // later, call getToken.then(function(token) {...}); to use it
     // it's valid for up to an hour
@@ -106,8 +105,7 @@
      * @param {ProblemData} problem
      * @returns {ProblemData}
      */
-    function minimizeProblem(problem) {
-      console.log(problem);
+    function minimizeProblem(problem, skipOption) {
       var objs = problem.columns
           .filter(function(col){
             return col.is_objective;
@@ -137,8 +135,7 @@
             key: op.key,
             values: vals
           };
-        })
-      };
+      })};
     }
 
     function tranformResolution(dilemma, minProblem) {
@@ -160,6 +157,7 @@
       });
       return res;
     }
+
     var minProblem = minimizeProblem(problem);
     return getToken.then(function(token) {
       return $.ajax(dilemmaServiceUrl, {
@@ -241,7 +239,6 @@
           var op = $(tile).data('op');
           return evalOp(op);
         });
-      console.log(evals);
         $(tile).toggleClass('isIn', isIn);
       });
     }
@@ -566,19 +563,27 @@
       window.location = response;
     })
   }
-  function check(){
-    console.log('validating');
+  function check(msg){
     $.ajax('/valid', {
       method: 'post'
     }).then(function(response){
       console.log(response);
-      // var result = dilemma(response);
-      // console.log(result);
-      var good = 'Felicidades, segun tus datos puedes optar por el Credito MICRO de BCI';
-      var bad = 'Lo sentimos, segun tus datos no estas apto para ninguno de nuestros creditos registrado, sin embargo te notificaremos a la brevedad cuando uno de nustros creditos nuevos se adapten a sus necesidades';
-      $('._demo--output').append(good).show();
+      dilemma(response).then(function(result){
+        console.log(result);
+        var winner = result.resolution.solutions.filter(function(s) {
+          return s.status === "FRONT";
+        })
+        var msg;
+        if (winner.length > 0){
+          msg = 'Felicidades, segun tus datos puedes optar por el Credito' + result.problem.subject;
+        }else{
+          msg = 'Lo sentimos, segun tus datos no estas apto para ninguno de nuestros creditos registrado, sin embargo te notificaremos a la brevedad cuando uno de nustros creditos nuevos se adapten a sus necesidades';
+        }
+        $('._demo--output').append(msg).show();
+      });
     })
   }
+
   function save(){
     var subject = theProblem.subject
     var cols = theProblem.columns.filter(function(c){return c.is_objective;});
@@ -587,7 +592,6 @@
       columns: cols
     }
     var body = JSON.stringify(problem);
-    console.log(body);
     $.post('/saveProfile', {
       json:true,
       headers: {
@@ -616,6 +620,7 @@
 
     $('.panel--button').click(analyze);
     $('.auth').click(auth);
+
     $('.check').click(check);
     $('.save').click(save);
   });
