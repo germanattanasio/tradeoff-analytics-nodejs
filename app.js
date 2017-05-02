@@ -29,7 +29,7 @@ var vcapServices = require('vcap_services');
 
 var credentials = Object.assign({
   username: process.env.TRADEOFF_ANALYTICS_USERNAME || '<username>',
-  password: process.env.TRADEOFF_ANALYTICS_PASSWORD || '<username>',
+  password: process.env.TRADEOFF_ANALYTICS_PASSWORD || '<password>',
   url: process.env.TRADEOFF_ANALYTICS_URL || 'https://gateway.watsonplatform.net/tradeoff-analytics/api',
   version: 'v1',
 }, vcapServices.getCredentials('tradeoff_analytics'));
