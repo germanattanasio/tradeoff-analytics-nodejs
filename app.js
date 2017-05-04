@@ -36,6 +36,13 @@ var credentials = Object.assign({
 
 var authorizationService = watson.authorization(credentials);
 
+
+app.get('/', function(req, res) {
+  res.render('index', {
+    bluemixAnalytics: process.env.BLUEMIX_ANALYTICS
+  });
+});
+
 app.post('/api/tradeoff-analytics-token', function(req, res) {
   authorizationService.getToken(credentials, function (err, token) {
     if (!token) {

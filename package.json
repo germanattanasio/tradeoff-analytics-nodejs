@@ -37,6 +37,7 @@
     "body-parser": "^1.16.0",
     "cf-deployment-tracker-client": "^0.x",
     "dotenv": "^4.0.0",
+    "ejs": "^2.5.6",
     "express": "^4.14.0",
     "express-rate-limit": "^2.6.0",
     "express-secure-only": "^0.2.1",
