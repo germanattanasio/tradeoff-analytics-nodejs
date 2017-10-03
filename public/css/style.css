@@ -776,6 +776,11 @@ pre[class*=" language-"] {
 .base--STYLED tr:nth-of-type(even) {
   background-color: #ececec; }
 
+.deprecation--notice {
+  color: red;
+  font-weight: bold;
+}
+
 .panel {
   background-color: #f4f4f4;
   border: 2px solid #ececec;
