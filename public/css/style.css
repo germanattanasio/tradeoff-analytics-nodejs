@@ -776,6 +776,14 @@ pre[class*=" language-"] {
 .base--STYLED tr:nth-of-type(even) {
   background-color: #ececec; }
 
+.deprecation--container {
+  position: absolute;
+  bottom: 50%;
+  left: 0%;
+  right: 0%;
+  margin: auto;
+}
+
 .panel {
   background-color: #f4f4f4;
   border: 2px solid #ececec;
