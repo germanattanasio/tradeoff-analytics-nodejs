@@ -1,4 +1,6 @@
-# Tradeoff Analytics Node Starter Application [![Build Status](https://travis-ci.org/watson-developer-cloud/tradeoff-analytics-nodejs.svg?branch=master)](https://travis-ci.org/watson-developer-cloud/tradeoff-analytics-nodejs)
+# Tradeoff Analytics Node Starter Application
+
+## DEPRECATED: this repo is no longer actively maintained. It can still be used as reference, but may contain outdated or unpatched code.
 
   The IBM Watson [Tradeoff Analytics][service_url] service helps you make
   better choices under multiple conflicting goals. The service combines smart
